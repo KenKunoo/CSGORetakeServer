@@ -1,0 +1,7 @@
+L 08/05/2022 - 05:15:54: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20220805.log") (Version "1.12.0.6908")
+L 08/05/2022 - 05:15:54: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (E:\retake\csgoserver\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 08/05/2022 - 05:15:54: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 08/05/2022 - 05:15:54: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 08/05/2022 - 05:16:51: -------- Mapchange to de_mirage --------
+L 08/05/2022 - 05:16:54: [weapons.smx] SQLite DB connection successful
+L 08/05/2022 - 05:16:54: [weapons.smx] Inactive players' data has been deleted

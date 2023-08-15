@@ -1,0 +1,280 @@
+L 07/15/2021 - 00:09:22: SourceMod error session started
+L 07/15/2021 - 00:09:22: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 00:09:22: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 07/15/2021 - 00:09:22: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 07/15/2021 - 00:09:22: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 00:09:22: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 00:09:26: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 00:09:26: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 00:09:26: [SM] Call stack trace:
+L 07/15/2021 - 00:09:26: [SM]   [0] FormatEx
+L 07/15/2021 - 00:09:26: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 00:09:26: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 00:10:36: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 00:10:36: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 00:10:36: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 00:10:36: [SM] Call stack trace:
+L 07/15/2021 - 00:10:36: [SM]   [0] SetFailState
+L 07/15/2021 - 00:10:36: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 00:10:36: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 00:10:40: Error log file session closed.
+L 07/15/2021 - 00:10:40: SourceMod error session started
+L 07/15/2021 - 00:10:40: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 00:10:40: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 00:10:40: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 00:10:41: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 00:10:41: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 00:10:41: [SM] Call stack trace:
+L 07/15/2021 - 00:10:41: [SM]   [0] FormatEx
+L 07/15/2021 - 00:10:41: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 00:10:41: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 00:10:41: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 00:10:41: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 00:10:41: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 00:10:41: [SM] Call stack trace:
+L 07/15/2021 - 00:10:41: [SM]   [0] SetFailState
+L 07/15/2021 - 00:10:41: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 00:10:41: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 00:11:29: Error log file session closed.
+L 07/15/2021 - 00:11:29: SourceMod error session started
+L 07/15/2021 - 00:11:29: Info (map "de_nuke") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 00:11:29: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 00:11:29: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 00:11:30: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 00:11:30: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 00:11:30: [SM] Call stack trace:
+L 07/15/2021 - 00:11:30: [SM]   [0] FormatEx
+L 07/15/2021 - 00:11:30: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 00:11:30: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 00:11:31: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 00:11:31: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 00:11:31: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 00:11:31: [SM] Call stack trace:
+L 07/15/2021 - 00:11:31: [SM]   [0] SetFailState
+L 07/15/2021 - 00:11:31: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 00:11:31: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 01:02:38: SourceMod error session started
+L 07/15/2021 - 01:02:38: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 01:02:38: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 07/15/2021 - 01:02:38: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 07/15/2021 - 01:02:38: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 01:02:38: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 01:02:42: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 01:02:42: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 01:02:42: [SM] Call stack trace:
+L 07/15/2021 - 01:02:42: [SM]   [0] FormatEx
+L 07/15/2021 - 01:02:42: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 01:02:42: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 01:02:52: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 01:02:52: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 01:02:52: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 01:02:52: [SM] Call stack trace:
+L 07/15/2021 - 01:02:52: [SM]   [0] SetFailState
+L 07/15/2021 - 01:02:52: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 01:02:52: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 01:02:56: Error log file session closed.
+L 07/15/2021 - 01:02:56: SourceMod error session started
+L 07/15/2021 - 01:02:56: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 01:02:56: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 01:02:56: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 01:02:57: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 01:02:57: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 01:02:57: [SM] Call stack trace:
+L 07/15/2021 - 01:02:57: [SM]   [0] FormatEx
+L 07/15/2021 - 01:02:57: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 01:02:57: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 01:02:57: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 01:02:57: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 01:02:57: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 01:02:57: [SM] Call stack trace:
+L 07/15/2021 - 01:02:57: [SM]   [0] SetFailState
+L 07/15/2021 - 01:02:57: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 01:02:57: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 01:03:56: Error log file session closed.
+L 07/15/2021 - 01:03:56: SourceMod error session started
+L 07/15/2021 - 01:03:56: Info (map "de_inferno") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 01:03:56: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 01:03:56: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 01:03:57: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 01:03:57: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 01:03:57: [SM] Call stack trace:
+L 07/15/2021 - 01:03:57: [SM]   [0] FormatEx
+L 07/15/2021 - 01:03:57: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 01:03:57: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 01:03:58: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 01:03:58: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 01:03:58: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 01:03:58: [SM] Call stack trace:
+L 07/15/2021 - 01:03:58: [SM]   [0] SetFailState
+L 07/15/2021 - 01:03:58: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 01:03:58: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 13:37:19: SourceMod error session started
+L 07/15/2021 - 13:37:19: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 13:37:19: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 07/15/2021 - 13:37:19: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 07/15/2021 - 13:37:20: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 13:37:20: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 13:37:27: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 13:37:27: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 13:37:27: [SM] Call stack trace:
+L 07/15/2021 - 13:37:27: [SM]   [0] FormatEx
+L 07/15/2021 - 13:37:27: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 13:37:27: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 13:38:15: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 13:38:15: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 13:38:15: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 13:38:15: [SM] Call stack trace:
+L 07/15/2021 - 13:38:15: [SM]   [0] SetFailState
+L 07/15/2021 - 13:38:15: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 13:38:15: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 13:38:19: Error log file session closed.
+L 07/15/2021 - 13:38:19: SourceMod error session started
+L 07/15/2021 - 13:38:19: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 13:38:19: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 13:38:19: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 13:38:20: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 13:38:20: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 13:38:20: [SM] Call stack trace:
+L 07/15/2021 - 13:38:20: [SM]   [0] FormatEx
+L 07/15/2021 - 13:38:20: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 13:38:20: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 13:38:20: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 13:38:20: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 13:38:20: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 13:38:20: [SM] Call stack trace:
+L 07/15/2021 - 13:38:20: [SM]   [0] SetFailState
+L 07/15/2021 - 13:38:20: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 13:38:21: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 14:19:02: Error log file session closed.
+L 07/15/2021 - 14:19:02: SourceMod error session started
+L 07/15/2021 - 14:19:02: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 14:19:02: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 14:19:02: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 14:19:03: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 14:19:03: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 14:19:03: [SM] Call stack trace:
+L 07/15/2021 - 14:19:03: [SM]   [0] FormatEx
+L 07/15/2021 - 14:19:03: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 14:19:03: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 17:41:28: SourceMod error session started
+L 07/15/2021 - 17:41:28: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 17:41:28: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 07/15/2021 - 17:41:28: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 07/15/2021 - 17:41:28: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 17:41:28: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 17:41:33: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 17:41:33: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 17:41:33: [SM] Call stack trace:
+L 07/15/2021 - 17:41:33: [SM]   [0] FormatEx
+L 07/15/2021 - 17:41:33: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 17:41:33: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 17:46:42: Error log file session closed.
+L 07/15/2021 - 17:46:42: SourceMod error session started
+L 07/15/2021 - 17:46:42: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 17:46:42: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 17:46:42: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 17:46:43: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 17:46:43: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 17:46:43: [SM] Call stack trace:
+L 07/15/2021 - 17:46:43: [SM]   [0] FormatEx
+L 07/15/2021 - 17:46:43: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 17:46:43: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 17:46:43: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 17:46:43: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 17:46:43: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 17:46:43: [SM] Call stack trace:
+L 07/15/2021 - 17:46:43: [SM]   [0] SetFailState
+L 07/15/2021 - 17:46:43: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 17:46:43: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 18:10:00: Error log file session closed.
+L 07/15/2021 - 18:10:01: SourceMod error session started
+L 07/15/2021 - 18:10:01: Info (map "de_overpass") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 18:10:01: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 18:10:01: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 18:10:02: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 18:10:02: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 18:10:02: [SM] Call stack trace:
+L 07/15/2021 - 18:10:02: [SM]   [0] FormatEx
+L 07/15/2021 - 18:10:02: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 18:10:02: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 18:10:02: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 18:10:02: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 18:10:02: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 18:10:02: [SM] Call stack trace:
+L 07/15/2021 - 18:10:02: [SM]   [0] SetFailState
+L 07/15/2021 - 18:10:02: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 18:10:02: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 20:34:33: SourceMod error session started
+L 07/15/2021 - 20:34:33: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 20:34:33: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 07/15/2021 - 20:34:33: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 07/15/2021 - 20:34:33: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 20:34:33: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 20:34:38: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 20:34:38: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 20:34:38: [SM] Call stack trace:
+L 07/15/2021 - 20:34:38: [SM]   [0] FormatEx
+L 07/15/2021 - 20:34:38: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 20:34:38: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 20:34:46: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 20:34:46: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 20:34:46: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 20:34:46: [SM] Call stack trace:
+L 07/15/2021 - 20:34:46: [SM]   [0] SetFailState
+L 07/15/2021 - 20:34:46: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 20:34:46: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 20:34:49: Error log file session closed.
+L 07/15/2021 - 20:34:49: SourceMod error session started
+L 07/15/2021 - 20:34:49: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 20:34:49: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 20:34:49: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 20:34:50: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 20:34:50: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 20:34:50: [SM] Call stack trace:
+L 07/15/2021 - 20:34:50: [SM]   [0] FormatEx
+L 07/15/2021 - 20:34:50: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 20:34:50: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 20:34:50: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 20:34:50: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 20:34:50: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 20:34:50: [SM] Call stack trace:
+L 07/15/2021 - 20:34:50: [SM]   [0] SetFailState
+L 07/15/2021 - 20:34:50: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 20:34:50: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 21:03:13: SourceMod error session started
+L 07/15/2021 - 21:03:13: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 21:03:13: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 07/15/2021 - 21:03:13: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 07/15/2021 - 21:03:13: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 21:03:13: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 21:03:17: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 21:03:17: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 21:03:17: [SM] Call stack trace:
+L 07/15/2021 - 21:03:17: [SM]   [0] FormatEx
+L 07/15/2021 - 21:03:17: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 21:03:17: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 21:03:35: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 21:03:35: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 21:03:35: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 21:03:35: [SM] Call stack trace:
+L 07/15/2021 - 21:03:35: [SM]   [0] SetFailState
+L 07/15/2021 - 21:03:35: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 21:03:35: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/15/2021 - 21:03:38: Error log file session closed.
+L 07/15/2021 - 21:03:38: SourceMod error session started
+L 07/15/2021 - 21:03:38: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210715.log")
+L 07/15/2021 - 21:03:38: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/15/2021 - 21:03:38: [SM] Error (line 0, column 0): Stream failed to open
+L 07/15/2021 - 21:03:39: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/15/2021 - 21:03:39: [SM] Blaming: ranks_matchmaking.smx
+L 07/15/2021 - 21:03:39: [SM] Call stack trace:
+L 07/15/2021 - 21:03:39: [SM]   [0] FormatEx
+L 07/15/2021 - 21:03:39: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/15/2021 - 21:03:39: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/15/2021 - 21:03:39: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/15/2021 - 21:03:39: [SM] Exception reported: Mapcycle Not Found
+L 07/15/2021 - 21:03:39: [SM] Blaming: nextmap.smx
+L 07/15/2021 - 21:03:39: [SM] Call stack trace:
+L 07/15/2021 - 21:03:39: [SM]   [0] SetFailState
+L 07/15/2021 - 21:03:39: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/15/2021 - 21:03:39: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted

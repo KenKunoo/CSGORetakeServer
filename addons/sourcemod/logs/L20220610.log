@@ -1,0 +1,13 @@
+L 06/10/2022 - 01:06:01: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20220610.log") (Version "1.11.0.6713")
+L 06/10/2022 - 01:06:01: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 06/10/2022 - 01:06:01: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 06/10/2022 - 01:06:43: -------- Mapchange to de_overpass --------
+L 06/10/2022 - 01:07:36: -------- Mapchange to de_overpass --------
+L 06/10/2022 - 01:07:38: [UPDATER] Successfully updated gamedata file "sdktools.games/game.reactivedrop.txt"
+L 06/10/2022 - 01:07:38: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.reactivedrop.txt"
+L 06/10/2022 - 01:07:38: [UPDATER] Successfully updated gamedata file "core.games/engine.swarm.txt"
+L 06/10/2022 - 01:07:38: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 06/10/2022 - 01:07:40: [weapons.smx] SQLite DB connection successful
+L 06/10/2022 - 01:07:41: [weapons.smx] Inactive players' data has been deleted
+L 06/10/2022 - 01:45:04: -------- Mapchange to de_nuke --------
+L 06/10/2022 - 01:45:06: [weapons.smx] Inactive players' data has been deleted

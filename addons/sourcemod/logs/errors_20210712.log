@@ -1,0 +1,595 @@
+L 07/12/2021 - 02:52:29: SourceMod error session started
+L 07/12/2021 - 02:52:29: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 02:52:29: [SM] Unable to load extension "dhooks.ext": The specified module could not be found.
+
+L 07/12/2021 - 02:52:32: [SM] Unable to load plugin "bot_improver.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 07/12/2021 - 02:52:52: Error log file session closed.
+L 07/12/2021 - 02:58:45: SourceMod error session started
+L 07/12/2021 - 02:58:45: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 02:58:45: [SM] Unable to load plugin "bot_improver.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 07/12/2021 - 02:58:59: Error log file session closed.
+L 07/12/2021 - 03:09:53: SourceMod error session started
+L 07/12/2021 - 03:09:53: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 03:09:53: [SM] Unable to load plugin "bot_improver.smx": Required extension "dhooks" file("dhooks.ext") not running
+L 07/12/2021 - 03:10:07: Error log file session closed.
+L 07/12/2021 - 15:24:14: SourceMod error session started
+L 07/12/2021 - 15:24:14: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 15:24:14: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 07/12/2021 - 15:24:14: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 07/12/2021 - 15:24:18: [SM] Exception reported: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 07/12/2021 - 15:24:18: [SM] Blaming: sqlmatch.smx
+L 07/12/2021 - 15:24:18: [SM] Call stack trace:
+L 07/12/2021 - 15:24:18: [SM]   [0] SetFailState
+L 07/12/2021 - 15:24:18: [SM]   [1] Line 19, sqlmatch.sp::OnPluginStart
+L 07/12/2021 - 15:24:18: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 07/12/2021 - 15:28:11: SourceMod error session started
+L 07/12/2021 - 15:28:11: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 15:28:11: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 07/12/2021 - 15:28:11: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 07/12/2021 - 15:28:15: [SM] Exception reported: [2003]: Can't connect to MySQL server on 'localhost' (10061)
+L 07/12/2021 - 15:28:15: [SM] Blaming: sqlmatch.smx
+L 07/12/2021 - 15:28:15: [SM] Call stack trace:
+L 07/12/2021 - 15:28:15: [SM]   [0] SetFailState
+L 07/12/2021 - 15:28:15: [SM]   [1] Line 19, sqlmatch.sp::OnPluginStart
+L 07/12/2021 - 15:28:15: [SM] Unable to load plugin "sqlmatch.smx": Error detected in plugin startup (see error logs)
+L 07/12/2021 - 15:28:17: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 15:28:17: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 15:28:17: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 15:28:17: [SM] Call stack trace:
+L 07/12/2021 - 15:28:17: [SM]   [0] SetFailState
+L 07/12/2021 - 15:28:17: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 15:28:17: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 15:30:06: SourceMod error session started
+L 07/12/2021 - 15:30:06: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 15:30:06: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 15:30:06: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 15:30:06: [SM] Unable to load extension "clientprefs.ext": Could not find any suitable database configs
+L 07/12/2021 - 15:30:06: [SM] Unable to load plugin "clientprefs.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 15:30:06: [SM] Unable to load plugin "kento_rankme.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 15:30:17: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:30:17: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 15:30:17: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 15:30:17: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 15:30:17: [SM] Call stack trace:
+L 07/12/2021 - 15:30:17: [SM]   [0] SetFailState
+L 07/12/2021 - 15:30:17: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 15:30:17: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 15:30:17: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:30:20: Error log file session closed.
+L 07/12/2021 - 15:30:20: SourceMod error session started
+L 07/12/2021 - 15:30:20: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 15:30:20: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 15:30:20: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 15:30:21: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:30:21: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:30:21: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 15:30:21: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 15:30:21: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 15:30:21: [SM] Call stack trace:
+L 07/12/2021 - 15:30:21: [SM]   [0] SetFailState
+L 07/12/2021 - 15:30:21: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 15:30:21: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 15:30:27: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 15:30:27: [SM] Blaming: gloves.smx
+L 07/12/2021 - 15:30:27: [SM] Call stack trace:
+L 07/12/2021 - 15:30:27: [SM]   [0] Database.Query
+L 07/12/2021 - 15:30:27: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 15:30:27: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 15:32:36: Error log file session closed.
+L 07/12/2021 - 15:32:36: SourceMod error session started
+L 07/12/2021 - 15:32:36: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 15:32:36: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 15:32:36: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 15:32:37: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:32:37: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:32:38: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 15:32:38: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 15:32:38: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 15:32:38: [SM] Call stack trace:
+L 07/12/2021 - 15:32:38: [SM]   [0] SetFailState
+L 07/12/2021 - 15:32:38: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 15:32:38: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 15:32:43: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 15:32:43: [SM] Blaming: gloves.smx
+L 07/12/2021 - 15:32:43: [SM] Call stack trace:
+L 07/12/2021 - 15:32:43: [SM]   [0] Database.Query
+L 07/12/2021 - 15:32:43: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 15:32:43: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 15:47:24: SourceMod error session started
+L 07/12/2021 - 15:47:24: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 15:47:24: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 15:47:24: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 15:47:24: [SM] Unable to load extension "clientprefs.ext": Could not find any suitable database configs
+L 07/12/2021 - 15:47:24: [SM] Unable to load plugin "clientprefs.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 15:47:24: [SM] Unable to load plugin "kento_rankme.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 15:48:02: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:48:02: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 15:48:02: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 15:48:02: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 15:48:02: [SM] Call stack trace:
+L 07/12/2021 - 15:48:02: [SM]   [0] SetFailState
+L 07/12/2021 - 15:48:02: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 15:48:02: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 15:48:02: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:48:05: Error log file session closed.
+L 07/12/2021 - 15:48:05: SourceMod error session started
+L 07/12/2021 - 15:48:05: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 15:48:05: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 15:48:05: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 15:48:06: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:48:06: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:48:06: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 15:48:06: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 15:48:06: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 15:48:06: [SM] Call stack trace:
+L 07/12/2021 - 15:48:06: [SM]   [0] SetFailState
+L 07/12/2021 - 15:48:06: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 15:48:06: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 15:48:11: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 15:48:11: [SM] Blaming: gloves.smx
+L 07/12/2021 - 15:48:11: [SM] Call stack trace:
+L 07/12/2021 - 15:48:11: [SM]   [0] Database.Query
+L 07/12/2021 - 15:48:11: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 15:48:11: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 15:51:46: Error log file session closed.
+L 07/12/2021 - 15:51:46: SourceMod error session started
+L 07/12/2021 - 15:51:46: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 15:51:46: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 15:51:46: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 15:51:47: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:51:47: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:51:47: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 15:51:47: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 15:51:47: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 15:51:47: [SM] Call stack trace:
+L 07/12/2021 - 15:51:47: [SM]   [0] SetFailState
+L 07/12/2021 - 15:51:47: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 15:51:47: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 15:51:52: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 15:51:52: [SM] Blaming: gloves.smx
+L 07/12/2021 - 15:51:52: [SM] Call stack trace:
+L 07/12/2021 - 15:51:52: [SM]   [0] Database.Query
+L 07/12/2021 - 15:51:52: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 15:51:52: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 15:56:17: Error log file session closed.
+L 07/12/2021 - 15:56:17: SourceMod error session started
+L 07/12/2021 - 15:56:17: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 15:56:17: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 15:56:17: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 15:56:18: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:56:18: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:56:19: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 15:56:19: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 15:56:19: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 15:56:19: [SM] Call stack trace:
+L 07/12/2021 - 15:56:19: [SM]   [0] SetFailState
+L 07/12/2021 - 15:56:19: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 15:56:19: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 15:56:23: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 15:56:23: [SM] Blaming: gloves.smx
+L 07/12/2021 - 15:56:23: [SM] Call stack trace:
+L 07/12/2021 - 15:56:23: [SM]   [0] Database.Query
+L 07/12/2021 - 15:56:23: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 15:56:23: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 15:59:02: Error log file session closed.
+L 07/12/2021 - 15:59:02: SourceMod error session started
+L 07/12/2021 - 15:59:02: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 15:59:02: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 15:59:02: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 15:59:03: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:59:03: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 15:59:03: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 15:59:03: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 15:59:03: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 15:59:03: [SM] Call stack trace:
+L 07/12/2021 - 15:59:03: [SM]   [0] SetFailState
+L 07/12/2021 - 15:59:03: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 15:59:03: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 15:59:08: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 15:59:09: [SM] Blaming: gloves.smx
+L 07/12/2021 - 15:59:09: [SM] Call stack trace:
+L 07/12/2021 - 15:59:09: [SM]   [0] Database.Query
+L 07/12/2021 - 15:59:09: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 15:59:09: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 16:00:18: Error log file session closed.
+L 07/12/2021 - 16:00:18: SourceMod error session started
+L 07/12/2021 - 16:00:18: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 16:00:18: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 16:00:18: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 16:00:19: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:00:19: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:00:19: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 16:00:19: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 16:00:19: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 16:00:19: [SM] Call stack trace:
+L 07/12/2021 - 16:00:19: [SM]   [0] SetFailState
+L 07/12/2021 - 16:00:19: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 16:00:19: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 16:00:24: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 16:00:24: [SM] Blaming: gloves.smx
+L 07/12/2021 - 16:00:24: [SM] Call stack trace:
+L 07/12/2021 - 16:00:24: [SM]   [0] Database.Query
+L 07/12/2021 - 16:00:24: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 16:00:24: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 16:03:30: Error log file session closed.
+L 07/12/2021 - 16:03:30: SourceMod error session started
+L 07/12/2021 - 16:03:30: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 16:03:30: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 16:03:30: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 16:03:31: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:03:31: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:03:31: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 16:03:31: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 16:03:31: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 16:03:31: [SM] Call stack trace:
+L 07/12/2021 - 16:03:31: [SM]   [0] SetFailState
+L 07/12/2021 - 16:03:31: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 16:03:31: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 16:03:36: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 16:03:36: [SM] Blaming: gloves.smx
+L 07/12/2021 - 16:03:36: [SM] Call stack trace:
+L 07/12/2021 - 16:03:36: [SM]   [0] Database.Query
+L 07/12/2021 - 16:03:36: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 16:03:36: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 16:10:31: Error log file session closed.
+L 07/12/2021 - 16:10:31: SourceMod error session started
+L 07/12/2021 - 16:10:31: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 16:10:31: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 16:10:31: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 16:10:32: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:10:32: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:10:32: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 16:10:32: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 16:10:32: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 16:10:32: [SM] Call stack trace:
+L 07/12/2021 - 16:10:32: [SM]   [0] SetFailState
+L 07/12/2021 - 16:10:32: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 16:10:32: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 16:10:38: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 16:10:38: [SM] Blaming: gloves.smx
+L 07/12/2021 - 16:10:38: [SM] Call stack trace:
+L 07/12/2021 - 16:10:38: [SM]   [0] Database.Query
+L 07/12/2021 - 16:10:38: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 16:10:38: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 16:15:16: Error log file session closed.
+L 07/12/2021 - 16:15:16: SourceMod error session started
+L 07/12/2021 - 16:15:16: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 16:15:16: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 16:15:16: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 16:15:16: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:15:17: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:15:17: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 16:15:17: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 16:15:17: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 16:15:17: [SM] Call stack trace:
+L 07/12/2021 - 16:15:17: [SM]   [0] SetFailState
+L 07/12/2021 - 16:15:17: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 16:15:17: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 16:15:22: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 16:15:22: [SM] Blaming: gloves.smx
+L 07/12/2021 - 16:15:22: [SM] Call stack trace:
+L 07/12/2021 - 16:15:22: [SM]   [0] Database.Query
+L 07/12/2021 - 16:15:22: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 16:15:22: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 16:18:36: Error log file session closed.
+L 07/12/2021 - 16:18:36: SourceMod error session started
+L 07/12/2021 - 16:18:36: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 16:18:36: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 16:18:36: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 16:18:37: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:18:37: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:18:38: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 16:18:38: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 16:18:38: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 16:18:38: [SM] Call stack trace:
+L 07/12/2021 - 16:18:38: [SM]   [0] SetFailState
+L 07/12/2021 - 16:18:38: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 16:18:38: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 16:18:43: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 16:18:43: [SM] Blaming: gloves.smx
+L 07/12/2021 - 16:18:43: [SM] Call stack trace:
+L 07/12/2021 - 16:18:43: [SM]   [0] Database.Query
+L 07/12/2021 - 16:18:43: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 16:18:43: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 16:21:12: Error log file session closed.
+L 07/12/2021 - 16:21:12: SourceMod error session started
+L 07/12/2021 - 16:21:12: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 16:21:12: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 16:21:12: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 16:21:13: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:21:13: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:21:14: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 16:21:14: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 16:21:14: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 16:21:14: [SM] Call stack trace:
+L 07/12/2021 - 16:21:14: [SM]   [0] SetFailState
+L 07/12/2021 - 16:21:14: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 16:21:14: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 16:21:19: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 16:21:19: [SM] Blaming: gloves.smx
+L 07/12/2021 - 16:21:19: [SM] Call stack trace:
+L 07/12/2021 - 16:21:19: [SM]   [0] Database.Query
+L 07/12/2021 - 16:21:19: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 16:21:19: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 16:25:15: Error log file session closed.
+L 07/12/2021 - 16:25:15: SourceMod error session started
+L 07/12/2021 - 16:25:15: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 16:25:15: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 16:25:15: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 16:25:16: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:25:16: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:25:17: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 16:25:17: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 16:25:17: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 16:25:17: [SM] Call stack trace:
+L 07/12/2021 - 16:25:17: [SM]   [0] SetFailState
+L 07/12/2021 - 16:25:17: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 16:25:17: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 16:25:21: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 16:25:21: [SM] Blaming: gloves.smx
+L 07/12/2021 - 16:25:21: [SM] Call stack trace:
+L 07/12/2021 - 16:25:21: [SM]   [0] Database.Query
+L 07/12/2021 - 16:25:21: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 16:25:21: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 16:29:17: Error log file session closed.
+L 07/12/2021 - 16:29:17: SourceMod error session started
+L 07/12/2021 - 16:29:17: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 16:29:17: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 16:29:17: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 16:29:18: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:29:18: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:29:18: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 16:29:18: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 16:29:18: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 16:29:18: [SM] Call stack trace:
+L 07/12/2021 - 16:29:18: [SM]   [0] SetFailState
+L 07/12/2021 - 16:29:18: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 16:29:18: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 16:29:23: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 16:29:23: [SM] Blaming: gloves.smx
+L 07/12/2021 - 16:29:23: [SM] Call stack trace:
+L 07/12/2021 - 16:29:23: [SM]   [0] Database.Query
+L 07/12/2021 - 16:29:23: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 16:29:23: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 16:30:33: Error log file session closed.
+L 07/12/2021 - 16:30:33: SourceMod error session started
+L 07/12/2021 - 16:30:33: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 16:30:33: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 16:30:33: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 16:30:34: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:30:34: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 16:30:34: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 16:30:34: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 16:30:34: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 16:30:34: [SM] Call stack trace:
+L 07/12/2021 - 16:30:34: [SM]   [0] SetFailState
+L 07/12/2021 - 16:30:34: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 16:30:34: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 16:30:39: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 16:30:39: [SM] Blaming: gloves.smx
+L 07/12/2021 - 16:30:39: [SM] Call stack trace:
+L 07/12/2021 - 16:30:39: [SM]   [0] Database.Query
+L 07/12/2021 - 16:30:39: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 16:30:39: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 18:12:35: SourceMod error session started
+L 07/12/2021 - 18:12:35: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 18:12:35: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 18:12:35: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 18:12:36: [SM] Unable to load extension "clientprefs.ext": Could not find any suitable database configs
+L 07/12/2021 - 18:12:36: [SM] Unable to load plugin "clientprefs.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 18:12:36: [SM] Unable to load plugin "kento_rankme.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 18:12:53: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 18:12:53: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 18:12:53: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 18:12:53: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 18:12:53: [SM] Call stack trace:
+L 07/12/2021 - 18:12:53: [SM]   [0] SetFailState
+L 07/12/2021 - 18:12:53: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 18:12:53: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 18:12:53: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 18:12:56: Error log file session closed.
+L 07/12/2021 - 18:12:56: SourceMod error session started
+L 07/12/2021 - 18:12:56: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 18:12:56: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 18:12:56: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 18:12:57: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 18:12:57: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 18:12:57: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 18:12:57: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 18:12:57: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 18:12:57: [SM] Call stack trace:
+L 07/12/2021 - 18:12:57: [SM]   [0] SetFailState
+L 07/12/2021 - 18:12:57: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 18:12:57: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 18:13:18: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 18:13:18: [SM] Blaming: gloves.smx
+L 07/12/2021 - 18:13:18: [SM] Call stack trace:
+L 07/12/2021 - 18:13:18: [SM]   [0] Database.Query
+L 07/12/2021 - 18:13:18: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 18:13:18: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 18:35:29: SourceMod error session started
+L 07/12/2021 - 18:35:29: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 18:35:29: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 18:35:29: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 18:35:29: [SM] Unable to load extension "clientprefs.ext": Could not find any suitable database configs
+L 07/12/2021 - 18:35:29: [SM] Unable to load plugin "clientprefs.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 18:35:29: [SM] Unable to load plugin "kento_rankme.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 18:35:54: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 18:35:54: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 18:35:54: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 18:35:54: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 18:35:54: [SM] Call stack trace:
+L 07/12/2021 - 18:35:54: [SM]   [0] SetFailState
+L 07/12/2021 - 18:35:54: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 18:35:54: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 18:35:54: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 18:35:57: Error log file session closed.
+L 07/12/2021 - 18:35:57: SourceMod error session started
+L 07/12/2021 - 18:35:57: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 18:35:57: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 18:35:57: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 18:35:58: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 18:35:58: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 18:35:59: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 18:35:59: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 18:35:59: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 18:35:59: [SM] Call stack trace:
+L 07/12/2021 - 18:35:59: [SM]   [0] SetFailState
+L 07/12/2021 - 18:35:59: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 18:35:59: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 18:36:15: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 18:36:15: [SM] Blaming: gloves.smx
+L 07/12/2021 - 18:36:15: [SM] Call stack trace:
+L 07/12/2021 - 18:36:15: [SM]   [0] Database.Query
+L 07/12/2021 - 18:36:15: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 18:36:15: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 19:06:43: SourceMod error session started
+L 07/12/2021 - 19:06:43: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 19:06:43: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 19:06:43: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 19:06:44: [SM] Unable to load extension "clientprefs.ext": Could not find any suitable database configs
+L 07/12/2021 - 19:06:44: [SM] Unable to load plugin "clientprefs.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 19:06:44: [SM] Unable to load plugin "kento_rankme.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 19:07:03: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 19:07:03: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 19:07:03: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 19:07:03: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 19:07:03: [SM] Call stack trace:
+L 07/12/2021 - 19:07:03: [SM]   [0] SetFailState
+L 07/12/2021 - 19:07:03: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 19:07:03: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 19:07:03: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 19:07:07: Error log file session closed.
+L 07/12/2021 - 19:07:07: SourceMod error session started
+L 07/12/2021 - 19:07:07: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 19:07:07: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 19:07:07: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 19:07:08: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 19:07:08: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 19:07:08: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 19:07:08: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 19:07:08: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 19:07:08: [SM] Call stack trace:
+L 07/12/2021 - 19:07:08: [SM]   [0] SetFailState
+L 07/12/2021 - 19:07:08: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 19:07:08: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 19:07:28: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 19:07:28: [SM] Blaming: gloves.smx
+L 07/12/2021 - 19:07:28: [SM] Call stack trace:
+L 07/12/2021 - 19:07:28: [SM]   [0] Database.Query
+L 07/12/2021 - 19:07:28: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 19:07:28: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 19:10:21: Error log file session closed.
+L 07/12/2021 - 19:10:21: SourceMod error session started
+L 07/12/2021 - 19:10:21: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 19:10:21: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 19:10:21: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 19:10:22: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 19:10:22: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 19:10:22: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 19:10:22: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 19:10:22: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 19:10:22: [SM] Call stack trace:
+L 07/12/2021 - 19:10:22: [SM]   [0] SetFailState
+L 07/12/2021 - 19:10:22: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 19:10:22: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 19:10:27: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 19:10:27: [SM] Blaming: gloves.smx
+L 07/12/2021 - 19:10:27: [SM] Call stack trace:
+L 07/12/2021 - 19:10:27: [SM]   [0] Database.Query
+L 07/12/2021 - 19:10:27: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 19:10:27: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 19:10:57: SourceMod error session started
+L 07/12/2021 - 19:10:57: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 19:10:57: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 19:10:57: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 19:10:57: [SM] Unable to load extension "clientprefs.ext": Could not find any suitable database configs
+L 07/12/2021 - 19:10:57: [SM] Unable to load plugin "clientprefs.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 19:10:57: [SM] Unable to load plugin "kento_rankme.smx": Required extension "Client Preferences" file("clientprefs.ext") not running
+L 07/12/2021 - 19:12:10: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 19:12:10: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 19:12:10: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 19:12:10: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 19:12:10: [SM] Call stack trace:
+L 07/12/2021 - 19:12:10: [SM]   [0] SetFailState
+L 07/12/2021 - 19:12:10: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 19:12:10: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 19:12:10: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 19:12:13: Error log file session closed.
+L 07/12/2021 - 19:12:13: SourceMod error session started
+L 07/12/2021 - 19:12:13: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 19:12:13: [SM] Detected parse error(s) in file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\configs\databases.cfg"
+L 07/12/2021 - 19:12:13: [SM] Line 0: Stream failed to open
+L 07/12/2021 - 19:12:14: [gloves.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 19:12:14: [weapons.smx] Database failure: Could not find database conf "storage-local"
+L 07/12/2021 - 19:12:15: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 19:12:15: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 19:12:15: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 19:12:15: [SM] Call stack trace:
+L 07/12/2021 - 19:12:15: [SM]   [0] SetFailState
+L 07/12/2021 - 19:12:15: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 19:12:15: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 19:12:20: [SM] Exception reported: Invalid database Handle 0 (error: 4)
+L 07/12/2021 - 19:12:20: [SM] Blaming: gloves.smx
+L 07/12/2021 - 19:12:20: [SM] Call stack trace:
+L 07/12/2021 - 19:12:20: [SM]   [0] Database.Query
+L 07/12/2021 - 19:12:20: [SM]   [1] Line 24, tmp/addons/sourcemod/scripting/gloves/database.sp::GetPlayerData
+L 07/12/2021 - 19:12:20: [SM]   [2] Line 125, tmp/addons/sourcemod/scripting/gloves.sp::OnClientPostAdminCheck
+L 07/12/2021 - 19:15:15: SourceMod error session started
+L 07/12/2021 - 19:15:15: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 19:15:15: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 19:15:15: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 19:15:15: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 19:15:15: [SM] Call stack trace:
+L 07/12/2021 - 19:15:15: [SM]   [0] SetFailState
+L 07/12/2021 - 19:15:15: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 19:15:15: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 19:15:18: Error log file session closed.
+L 07/12/2021 - 19:15:19: SourceMod error session started
+L 07/12/2021 - 19:15:19: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 19:15:19: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 19:15:19: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 19:15:19: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 19:15:19: [SM] Call stack trace:
+L 07/12/2021 - 19:15:19: [SM]   [0] SetFailState
+L 07/12/2021 - 19:15:19: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 19:15:19: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 21:55:07: SourceMod error session started
+L 07/12/2021 - 21:55:07: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 21:55:07: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 21:55:07: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 21:55:07: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 21:55:07: [SM] Call stack trace:
+L 07/12/2021 - 21:55:07: [SM]   [0] SetFailState
+L 07/12/2021 - 21:55:07: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 21:55:07: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 21:55:11: Error log file session closed.
+L 07/12/2021 - 21:55:12: SourceMod error session started
+L 07/12/2021 - 21:55:12: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 21:55:12: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 21:55:12: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 21:55:12: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 21:55:12: [SM] Call stack trace:
+L 07/12/2021 - 21:55:12: [SM]   [0] SetFailState
+L 07/12/2021 - 21:55:12: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 21:55:12: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 22:33:10: Error log file session closed.
+L 07/12/2021 - 22:33:12: SourceMod error session started
+L 07/12/2021 - 22:33:12: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 22:33:12: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 22:33:12: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 22:33:12: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 22:33:12: [SM] Call stack trace:
+L 07/12/2021 - 22:33:12: [SM]   [0] SetFailState
+L 07/12/2021 - 22:33:12: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 22:33:12: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/12/2021 - 22:34:59: Error log file session closed.
+L 07/12/2021 - 22:35:01: SourceMod error session started
+L 07/12/2021 - 22:35:01: Info (map "de_mirage") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210712.log")
+L 07/12/2021 - 22:35:01: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/12/2021 - 22:35:01: [SM] Exception reported: Mapcycle Not Found
+L 07/12/2021 - 22:35:01: [SM] Blaming: nextmap.smx
+L 07/12/2021 - 22:35:01: [SM] Call stack trace:
+L 07/12/2021 - 22:35:01: [SM]   [0] SetFailState
+L 07/12/2021 - 22:35:01: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/12/2021 - 22:35:01: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\nextmap.sp::OnConfigsExecuted

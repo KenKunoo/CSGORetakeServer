@@ -1,0 +1,468 @@
+L 12/22/2021 - 02:18:44: SourceMod error session started
+L 12/22/2021 - 02:18:44: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20211222.log")
+L 12/22/2021 - 02:18:44: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 12/22/2021 - 02:18:47: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 12/22/2021 - 02:18:47: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 12/22/2021 - 02:18:48: [SM] Unable to load plugin "LagCompensation.smx": Required extension "PhysHooks" file("PhysHooks.ext") not running
+L 12/22/2021 - 02:18:49: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 12/22/2021 - 02:18:49: [SM] Error (line 0, column 0): Stream failed to open
+L 12/22/2021 - 02:18:49: [SM] Fatal error encountered parsing translation file "instadefuse.phrases.txt"
+L 12/22/2021 - 02:18:49: [SM] Error (line 0, column 0): Stream failed to open
+L 12/22/2021 - 02:19:09: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 12/22/2021 - 02:19:09: [SM] Blaming: ranks_matchmaking.smx
+L 12/22/2021 - 02:19:09: [SM] Call stack trace:
+L 12/22/2021 - 02:19:09: [SM]   [0] FormatEx
+L 12/22/2021 - 02:19:09: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 12/22/2021 - 02:19:09: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 12/22/2021 - 02:19:57: Error log file session closed.
+L 12/22/2021 - 02:19:57: SourceMod error session started
+L 12/22/2021 - 02:19:57: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20211222.log")
+L 12/22/2021 - 02:19:57: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 12/22/2021 - 02:19:57: [SM] Error (line 0, column 0): Stream failed to open
+L 12/22/2021 - 02:19:57: [SM] Fatal error encountered parsing translation file "instadefuse.phrases.txt"
+L 12/22/2021 - 02:19:57: [SM] Error (line 0, column 0): Stream failed to open
+L 12/22/2021 - 02:19:57: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 12/22/2021 - 02:19:57: [SM] Blaming: ranks_matchmaking.smx
+L 12/22/2021 - 02:19:57: [SM] Call stack trace:
+L 12/22/2021 - 02:19:57: [SM]   [0] FormatEx
+L 12/22/2021 - 02:19:57: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 12/22/2021 - 02:19:57: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 12/22/2021 - 02:22:20: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:22:20: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:22:20: [SM] Call stack trace:
+L 12/22/2021 - 02:22:20: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:22:20: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:22:20: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:22:52: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:22:52: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:22:52: [SM] Call stack trace:
+L 12/22/2021 - 02:22:52: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:22:52: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:22:52: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:23:30: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:23:30: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:23:30: [SM] Call stack trace:
+L 12/22/2021 - 02:23:30: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:23:30: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:23:30: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:24:24: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:24:24: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:24:24: [SM] Call stack trace:
+L 12/22/2021 - 02:24:24: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:24:24: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:24:24: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:25:31: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:25:31: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:25:31: [SM] Call stack trace:
+L 12/22/2021 - 02:25:31: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:25:31: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:25:31: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:27:32: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:27:32: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:27:32: [SM] Call stack trace:
+L 12/22/2021 - 02:27:32: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:27:32: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:27:32: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:28:30: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:28:30: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:28:30: [SM] Call stack trace:
+L 12/22/2021 - 02:28:30: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:28:30: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:28:30: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:28:51: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:28:51: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:28:51: [SM] Call stack trace:
+L 12/22/2021 - 02:28:51: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:28:51: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:28:51: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:30:49: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:30:49: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:30:49: [SM] Call stack trace:
+L 12/22/2021 - 02:30:49: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:30:49: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:30:49: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:31:30: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:31:30: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:31:30: [SM] Call stack trace:
+L 12/22/2021 - 02:31:30: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:31:30: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:31:30: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:31:52: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:31:52: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:31:52: [SM] Call stack trace:
+L 12/22/2021 - 02:31:52: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:31:52: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:31:52: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:32:11: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:32:11: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:32:11: [SM] Call stack trace:
+L 12/22/2021 - 02:32:11: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:32:11: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:32:11: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:32:34: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:32:34: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:32:34: [SM] Call stack trace:
+L 12/22/2021 - 02:32:34: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:32:34: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:32:34: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:32:59: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:32:59: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:32:59: [SM] Call stack trace:
+L 12/22/2021 - 02:32:59: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:32:59: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:33:00: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:33:57: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:33:57: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:33:57: [SM] Call stack trace:
+L 12/22/2021 - 02:33:57: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:33:57: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:33:57: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:34:21: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:34:21: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:34:21: [SM] Call stack trace:
+L 12/22/2021 - 02:34:21: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:34:21: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:34:21: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:34:22: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:34:22: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:34:22: [SM] Call stack trace:
+L 12/22/2021 - 02:34:22: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:34:22: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:34:22: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:34:23: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:34:23: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:34:23: [SM] Call stack trace:
+L 12/22/2021 - 02:34:23: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:34:23: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:34:23: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:35:10: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:35:10: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:35:10: [SM] Call stack trace:
+L 12/22/2021 - 02:35:10: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:35:10: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:35:10: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:35:34: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:35:34: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:35:34: [SM] Call stack trace:
+L 12/22/2021 - 02:35:34: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:35:34: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:35:34: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:38:24: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:38:24: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:38:24: [SM] Call stack trace:
+L 12/22/2021 - 02:38:24: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:38:24: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:38:24: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:38:47: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:38:47: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:38:47: [SM] Call stack trace:
+L 12/22/2021 - 02:38:47: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:38:47: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:38:47: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:39:06: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:39:06: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:39:06: [SM] Call stack trace:
+L 12/22/2021 - 02:39:06: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:39:06: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:39:06: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:40:13: [SM] Exception reported: Language phrase "LiveNadeSomewhere" not found (arg 5)
+L 12/22/2021 - 02:40:13: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:40:13: [SM] Call stack trace:
+L 12/22/2021 - 02:40:13: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:40:13: [SM]   [1] Line 168, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:40:13: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:40:41: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:40:41: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:40:41: [SM] Call stack trace:
+L 12/22/2021 - 02:40:41: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:40:41: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:40:41: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:40:58: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:40:58: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:40:58: [SM] Call stack trace:
+L 12/22/2021 - 02:40:58: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:40:58: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:40:58: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:42:40: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:42:40: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:42:40: [SM] Call stack trace:
+L 12/22/2021 - 02:42:40: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:42:40: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:42:40: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:44:10: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:44:10: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:44:11: [SM] Call stack trace:
+L 12/22/2021 - 02:44:11: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:44:11: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:44:11: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:45:44: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:45:44: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:45:44: [SM] Call stack trace:
+L 12/22/2021 - 02:45:44: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:45:44: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:45:44: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:46:26: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:46:26: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:46:26: [SM] Call stack trace:
+L 12/22/2021 - 02:46:26: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:46:26: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:46:26: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:46:28: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:46:28: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:46:28: [SM] Call stack trace:
+L 12/22/2021 - 02:46:28: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:46:28: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:46:28: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:48:05: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:48:05: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:48:05: [SM] Call stack trace:
+L 12/22/2021 - 02:48:05: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:48:05: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:48:05: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:48:26: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:48:26: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:48:26: [SM] Call stack trace:
+L 12/22/2021 - 02:48:26: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:48:26: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:48:26: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:49:08: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:49:08: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:49:08: [SM] Call stack trace:
+L 12/22/2021 - 02:49:08: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:49:08: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:49:08: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:51:16: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:51:16: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:51:16: [SM] Call stack trace:
+L 12/22/2021 - 02:51:16: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:51:16: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:51:16: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:53:05: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:53:05: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:53:05: [SM] Call stack trace:
+L 12/22/2021 - 02:53:05: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:53:05: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:53:05: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:53:34: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:53:34: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:53:34: [SM] Call stack trace:
+L 12/22/2021 - 02:53:34: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:53:34: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:53:34: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:54:31: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 02:54:31: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:54:31: [SM] Call stack trace:
+L 12/22/2021 - 02:54:31: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:54:31: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:54:31: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:54:32: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 02:54:32: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:54:32: [SM] Call stack trace:
+L 12/22/2021 - 02:54:32: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:54:32: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:54:32: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:54:32: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 02:54:32: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:54:32: [SM] Call stack trace:
+L 12/22/2021 - 02:54:32: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:54:32: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:54:32: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:54:32: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 02:54:32: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:54:32: [SM] Call stack trace:
+L 12/22/2021 - 02:54:32: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:54:32: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:54:32: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:54:32: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 02:54:32: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:54:32: [SM] Call stack trace:
+L 12/22/2021 - 02:54:32: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:54:32: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:54:32: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:55:23: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:55:24: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:55:24: [SM] Call stack trace:
+L 12/22/2021 - 02:55:24: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:55:24: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:55:24: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:56:05: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 02:56:05: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:56:05: [SM] Call stack trace:
+L 12/22/2021 - 02:56:05: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:56:05: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:56:05: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:56:05: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 02:56:05: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:56:05: [SM] Call stack trace:
+L 12/22/2021 - 02:56:05: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:56:05: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:56:05: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:58:50: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:58:50: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:58:50: [SM] Call stack trace:
+L 12/22/2021 - 02:58:50: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:58:50: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:58:50: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:59:10: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 02:59:10: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 02:59:10: [SM] Call stack trace:
+L 12/22/2021 - 02:59:10: [SM]   [0] PrintToChat
+L 12/22/2021 - 02:59:10: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 02:59:10: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 02:59:26: Error log file session closed.
+L 12/22/2021 - 02:59:26: SourceMod error session started
+L 12/22/2021 - 02:59:26: Info (map "de_overpass") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20211222.log")
+L 12/22/2021 - 02:59:26: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 12/22/2021 - 02:59:26: [SM] Error (line 0, column 0): Stream failed to open
+L 12/22/2021 - 02:59:26: [SM] Fatal error encountered parsing translation file "instadefuse.phrases.txt"
+L 12/22/2021 - 02:59:26: [SM] Error (line 0, column 0): Stream failed to open
+L 12/22/2021 - 02:59:27: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 12/22/2021 - 02:59:27: [SM] Blaming: ranks_matchmaking.smx
+L 12/22/2021 - 02:59:27: [SM] Call stack trace:
+L 12/22/2021 - 02:59:27: [SM]   [0] FormatEx
+L 12/22/2021 - 02:59:27: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 12/22/2021 - 02:59:27: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 12/22/2021 - 03:01:45: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:01:45: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:01:45: [SM] Call stack trace:
+L 12/22/2021 - 03:01:45: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:01:45: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:01:45: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:02:28: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:02:28: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:02:28: [SM] Call stack trace:
+L 12/22/2021 - 03:02:28: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:02:28: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:02:28: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:03:05: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:03:05: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:03:05: [SM] Call stack trace:
+L 12/22/2021 - 03:03:05: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:03:05: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:03:05: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:06:39: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:06:39: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:06:39: [SM] Call stack trace:
+L 12/22/2021 - 03:06:39: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:06:39: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:06:39: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:07:01: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:07:01: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:07:01: [SM] Call stack trace:
+L 12/22/2021 - 03:07:01: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:07:01: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:07:01: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:07:37: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:07:37: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:07:37: [SM] Call stack trace:
+L 12/22/2021 - 03:07:37: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:07:37: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:07:37: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:07:59: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:07:59: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:07:59: [SM] Call stack trace:
+L 12/22/2021 - 03:07:59: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:07:59: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:07:59: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:10:10: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:10:10: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:10:10: [SM] Call stack trace:
+L 12/22/2021 - 03:10:10: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:10:10: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:10:10: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:11:02: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:11:02: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:11:02: [SM] Call stack trace:
+L 12/22/2021 - 03:11:02: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:11:02: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:11:02: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:11:40: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 03:11:40: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:11:40: [SM] Call stack trace:
+L 12/22/2021 - 03:11:40: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:11:40: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:11:40: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:11:40: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 03:11:40: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:11:40: [SM] Call stack trace:
+L 12/22/2021 - 03:11:40: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:11:40: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:11:40: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:11:41: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 03:11:41: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:11:41: [SM] Call stack trace:
+L 12/22/2021 - 03:11:41: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:11:41: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:11:41: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:12:37: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:12:37: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:12:37: [SM] Call stack trace:
+L 12/22/2021 - 03:12:37: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:12:37: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:12:37: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:13:09: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:13:09: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:13:09: [SM] Call stack trace:
+L 12/22/2021 - 03:13:09: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:13:09: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:13:09: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:13:24: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:13:24: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:13:24: [SM] Call stack trace:
+L 12/22/2021 - 03:13:24: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:13:24: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:13:24: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:15:49: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:15:49: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:15:49: [SM] Call stack trace:
+L 12/22/2021 - 03:15:49: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:15:49: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:15:49: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:16:16: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:16:16: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:16:16: [SM] Call stack trace:
+L 12/22/2021 - 03:16:16: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:16:16: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:16:16: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:17:17: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:17:17: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:17:17: [SM] Call stack trace:
+L 12/22/2021 - 03:17:17: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:17:17: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:17:17: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:17:59: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 03:17:59: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:17:59: [SM] Call stack trace:
+L 12/22/2021 - 03:17:59: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:17:59: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:17:59: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:17:59: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 03:17:59: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:17:59: [SM] Call stack trace:
+L 12/22/2021 - 03:17:59: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:17:59: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:17:59: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:17:59: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 03:17:59: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:17:59: [SM] Call stack trace:
+L 12/22/2021 - 03:17:59: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:17:59: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:17:59: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:18:00: [SM] Exception reported: Language phrase "InstaDefuseUnsuccessful" not found (arg 5)
+L 12/22/2021 - 03:18:00: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:18:00: [SM] Call stack trace:
+L 12/22/2021 - 03:18:00: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:18:00: [SM]   [1] Line 143, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:18:00: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:19:36: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:19:36: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:19:36: [SM] Call stack trace:
+L 12/22/2021 - 03:19:36: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:19:36: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:19:36: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame
+L 12/22/2021 - 03:19:57: [SM] Exception reported: Language phrase "InstaDefuseSuccessful" not found (arg 5)
+L 12/22/2021 - 03:19:57: [SM] Blaming: retakes-instadefuse.smx
+L 12/22/2021 - 03:19:57: [SM] Call stack trace:
+L 12/22/2021 - 03:19:57: [SM]   [0] PrintToChat
+L 12/22/2021 - 03:19:57: [SM]   [1] Line 197, plugin.sp::AttemptInstantDefuse
+L 12/22/2021 - 03:19:57: [SM]   [2] Line 104, plugin.sp::Event_BombBeginDefusePlusFrame

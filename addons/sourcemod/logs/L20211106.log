@@ -1,0 +1,18 @@
+L 11/06/2021 - 01:06:45: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211106.log") (Version "1.11.0.6713")
+L 11/06/2021 - 01:06:45: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 11/06/2021 - 01:06:45: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 11/06/2021 - 01:55:42: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211106.log") (Version "1.11.0.6713")
+L 11/06/2021 - 01:55:42: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 11/06/2021 - 01:55:42: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 11/06/2021 - 01:57:14: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211106.log") (Version "1.11.0.6713")
+L 11/06/2021 - 01:57:14: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 11/06/2021 - 01:57:14: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 11/06/2021 - 01:58:36: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211106.log") (Version "1.11.0.6713")
+L 11/06/2021 - 01:58:36: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 11/06/2021 - 01:58:36: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 11/06/2021 - 01:59:16: -------- Mapchange to de_mirage --------
+L 11/06/2021 - 01:59:17: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 11/06/2021 - 01:59:17: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.nmrih.txt"
+L 11/06/2021 - 01:59:17: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 11/06/2021 - 01:59:19: [weapons.smx] SQLite DB connection successful
+L 11/06/2021 - 01:59:20: [weapons.smx] Inactive players' data has been deleted

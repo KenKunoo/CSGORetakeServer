@@ -1,0 +1,4 @@
+L 03/25/2023 - 00:42:01: SourceMod log file session started (file "F:\CSRetake\csgo_server\csgo\addons\sourcemod\logs\L20230325.log") (Version "1.11.0.6932")
+L 03/25/2023 - 00:42:01: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (F:\CSRetake\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 03/25/2023 - 00:42:01: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/25/2023 - 00:42:01: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data

@@ -1,0 +1,276 @@
+L 07/13/2021 - 00:01:34: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 00:01:34: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 00:03:21: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 00:03:23: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 00:03:23: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 00:03:23: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 00:03:23: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 00:03:23: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 00:03:23: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 00:04:02: -------- Mapchange to de_inferno --------
+L 07/13/2021 - 00:04:04: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 00:04:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 02:21:43: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 02:21:43: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 02:22:00: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 02:22:01: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 02:22:02: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 02:22:02: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 02:22:02: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 02:22:02: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 02:22:02: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 02:23:01: -------- Mapchange to de_nuke --------
+L 07/13/2021 - 02:23:02: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 02:23:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 03:32:21: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 03:32:21: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 03:32:32: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 03:32:34: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:32:34: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:33:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 03:40:15: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 03:40:15: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 03:40:38: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 03:40:39: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:40:40: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:40:40: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:40:40: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:40:40: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:40:40: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:42:39: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 03:42:39: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 03:42:47: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 03:42:49: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:42:49: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:42:49: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:43:36: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 03:43:36: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 03:43:58: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 03:43:59: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:44:00: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:44:00: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:46:02: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 03:46:02: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 03:46:12: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 03:46:13: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:46:14: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:46:14: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:54:12: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 03:54:12: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 03:54:29: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 03:54:31: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:54:31: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:58:37: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 03:58:37: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 03:59:04: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 03:59:05: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:59:05: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:59:06: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:59:06: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 03:59:06: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 03:59:06: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:02:09: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 04:02:09: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 04:03:42: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 04:03:43: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:03:43: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:03:43: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:07:43: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 04:07:43: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 04:07:52: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 04:07:53: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:07:54: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:07:54: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:07:54: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:07:54: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:07:54: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:10:48: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 04:10:48: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 04:10:58: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 04:11:00: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:11:00: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:11:00: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:14:59: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 04:14:59: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 04:16:06: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 04:16:07: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:16:08: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:16:08: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:19:04: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 04:19:04: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 04:19:13: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 04:19:14: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:19:14: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:19:14: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:20:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 04:24:29: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 04:24:29: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 04:24:43: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 04:24:45: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:24:45: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:26:05: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.10.0.6502")
+L 07/13/2021 - 04:26:05: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/13/2021 - 04:27:37: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 04:27:38: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:27:38: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:27:38: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:27:38: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 04:27:38: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 04:27:38: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 14:39:10: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 14:39:10: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 14:39:10: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 14:39:21: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.l4d2.txt"
+L 07/13/2021 - 14:39:21: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.csgo.txt"
+L 07/13/2021 - 14:39:21: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.l4d.txt"
+L 07/13/2021 - 14:39:21: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.css.txt"
+L 07/13/2021 - 14:39:21: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf.txt"
+L 07/13/2021 - 14:39:21: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 07/13/2021 - 14:39:25: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 14:39:27: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 14:39:27: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 14:39:27: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 14:39:27: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 14:39:27: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 14:39:27: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 14:40:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 15:24:43: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 15:24:43: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 15:24:43: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 15:26:30: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 15:26:31: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 15:26:32: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 15:26:32: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 15:27:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 16:20:30: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 16:20:30: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 16:20:30: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 16:20:47: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 16:20:49: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 16:20:49: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 16:20:49: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 16:20:49: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 16:20:49: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 16:20:49: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 16:27:43: -------- Mapchange to de_mirage --------
+L 07/13/2021 - 16:27:45: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 16:28:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 17:40:24: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 17:40:24: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 17:40:24: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 17:40:44: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 17:40:45: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 17:40:46: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 17:40:46: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 17:40:46: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 17:40:46: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 17:40:46: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 17:44:46: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 17:44:46: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 17:44:46: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 17:45:25: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 17:45:27: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 17:45:27: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 17:46:24: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 17:46:25: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 17:46:54: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 17:46:54: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 17:46:54: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 17:47:28: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 17:47:30: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 17:47:30: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 17:47:30: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 17:50:30: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 17:50:31: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 17:52:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 17:54:20: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 17:54:21: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 17:58:45: [SM] Changed map to "de_dust2"
+L 07/13/2021 - 17:58:48: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 17:58:50: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 18:08:40: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 18:08:40: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 18:08:40: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 18:09:13: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 18:09:14: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 18:09:14: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 18:09:14: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 18:14:30: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 18:14:32: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 18:19:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 18:23:32: [get5.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 07/13/2021 - 18:23:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 18:25:59: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 18:25:59: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 18:26:00: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 18:26:18: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 18:26:19: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 18:26:19: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 18:26:19: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 18:27:06: [get5.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 07/13/2021 - 18:27:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 18:29:32: [get5.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 07/13/2021 - 18:29:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 18:29:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 18:33:17: [SM] Changed map to "de_dust2"
+L 07/13/2021 - 18:33:20: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 18:33:21: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 19:33:28: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 19:33:28: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 19:33:28: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 19:33:49: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 19:33:50: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 19:33:50: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 19:33:50: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 19:33:50: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 19:33:50: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 19:33:50: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 19:38:31: [get5.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 07/13/2021 - 19:38:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 19:38:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 21:15:17: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 21:15:17: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 21:15:17: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 21:15:34: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 21:15:36: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 21:15:36: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 21:15:36: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 21:15:36: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 21:15:36: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 21:15:36: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 21:18:23: [get5.smx] GOTV demo could not be recorded since tv_enable is not set to 1
+L 07/13/2021 - 21:18:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 21:18:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 21:28:37: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 21:28:37: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 21:28:37: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 21:28:48: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 21:28:50: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 21:28:50: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 21:28:50: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 21:28:50: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 21:28:50: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 21:28:50: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 21:29:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 21:31:01: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 21:31:01: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 21:31:01: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 21:32:04: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 21:32:05: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 21:32:05: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 21:32:05: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 21:33:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/13/2021 - 23:49:26: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210713.log") (Version "1.11.0.6713")
+L 07/13/2021 - 23:49:26: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/13/2021 - 23:49:26: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/13/2021 - 23:49:50: -------- Mapchange to de_dust2 --------
+L 07/13/2021 - 23:49:51: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 23:49:52: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 23:49:52: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 23:49:52: [weapons.smx] SQLite DB connection successful
+L 07/13/2021 - 23:49:52: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 23:49:52: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 23:51:43: -------- Mapchange to de_vertigo --------
+L 07/13/2021 - 23:51:44: [weapons.smx] Inactive players' data has been deleted
+L 07/13/2021 - 23:52:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/14/2021 - 00:26:27: Log file closed.

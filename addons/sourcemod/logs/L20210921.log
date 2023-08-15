@@ -1,0 +1,27 @@
+L 09/21/2021 - 21:05:44: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20210921.log") (Version "1.11.0.6713")
+L 09/21/2021 - 21:05:44: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 09/21/2021 - 21:05:44: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 09/21/2021 - 21:05:55: [MyWeaponAllocator.smx] addons\sourcemod\plugins\retakes_pistolallocator.smx was unloaded and moved to addons\sourcemod\plugins\disabled\retakes_pistolallocator.smx to avoid conflicts
+L 09/21/2021 - 21:05:55: [MyWeaponAllocator.smx] addons\sourcemod\plugins\retakes_standardallocator.smx was unloaded and moved to addons\sourcemod\plugins\disabled\retakes_standardallocator.smx to avoid conflicts
+L 09/21/2021 - 21:12:20: SourceMod log file session started (file "e:\retake\csgoserver\csgo\addons\sourcemod\logs\L20210921.log") (Version "1.11.0.6713")
+L 09/21/2021 - 21:12:20: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 09/21/2021 - 21:12:20: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 09/21/2021 - 21:13:17: SourceMod log file session started (file "e:\retake\csgoserver\csgo\addons\sourcemod\logs\L20210921.log") (Version "1.11.0.6713")
+L 09/21/2021 - 21:13:17: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 09/21/2021 - 21:13:17: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 09/21/2021 - 22:22:00: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20210921.log") (Version "1.11.0.6713")
+L 09/21/2021 - 22:22:00: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 09/21/2021 - 22:22:00: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 09/21/2021 - 23:53:29: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20210921.log") (Version "1.11.0.6713")
+L 09/21/2021 - 23:53:29: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 09/21/2021 - 23:53:29: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 09/21/2021 - 23:59:01: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20210921.log") (Version "1.11.0.6713")
+L 09/21/2021 - 23:59:01: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 09/21/2021 - 23:59:01: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 09/21/2021 - 23:59:11: -------- Mapchange to de_dust2 --------
+L 09/21/2021 - 23:59:14: [weapons.smx] SQLite DB connection successful
+L 09/21/2021 - 23:59:14: [weapons.smx] Inactive players' data has been deleted
+L 09/21/2021 - 23:59:56: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20210921.log") (Version "1.11.0.6713")
+L 09/21/2021 - 23:59:56: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 09/21/2021 - 23:59:56: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 09/22/2021 - 00:00:05: Log file closed.

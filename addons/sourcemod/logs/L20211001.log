@@ -1,0 +1,31 @@
+L 10/01/2021 - 02:21:30: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211001.log") (Version "1.11.0.6713")
+L 10/01/2021 - 02:21:30: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 10/01/2021 - 02:21:30: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/01/2021 - 02:22:27: -------- Mapchange to de_dust2 --------
+L 10/01/2021 - 02:22:30: [weapons.smx] SQLite DB connection successful
+L 10/01/2021 - 02:22:30: [weapons.smx] Inactive players' data has been deleted
+L 10/01/2021 - 02:25:31: -------- Mapchange to de_mirage --------
+L 10/01/2021 - 02:25:36: [weapons.smx] Inactive players' data has been deleted
+L 10/01/2021 - 21:46:11: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211001.log") (Version "1.11.0.6713")
+L 10/01/2021 - 21:46:11: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 10/01/2021 - 21:46:11: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/01/2021 - 21:46:52: -------- Mapchange to de_dust2 --------
+L 10/01/2021 - 21:46:53: [weapons.smx] SQLite DB connection successful
+L 10/01/2021 - 21:46:53: [weapons.smx] Inactive players' data has been deleted
+L 10/01/2021 - 21:46:53: [weapons.smx] SQLite DB connection successful
+L 10/01/2021 - 21:46:54: [weapons.smx] SQLite DB connection successful
+L 10/01/2021 - 21:46:54: [weapons.smx] Inactive players' data has been deleted
+L 10/01/2021 - 21:46:54: [weapons.smx] Inactive players' data has been deleted
+L 10/01/2021 - 21:47:34: -------- Mapchange to de_vertigo --------
+L 10/01/2021 - 21:47:36: [weapons.smx] Inactive players' data has been deleted
+L 10/01/2021 - 22:42:32: -------- Mapchange to de_inferno --------
+L 10/01/2021 - 22:42:35: [weapons.smx] Inactive players' data has been deleted
+L 10/01/2021 - 23:37:22: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211001.log") (Version "1.11.0.6713")
+L 10/01/2021 - 23:37:22: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 10/01/2021 - 23:37:22: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/01/2021 - 23:38:04: -------- Mapchange to de_dust2 --------
+L 10/01/2021 - 23:38:08: [weapons.smx] SQLite DB connection successful
+L 10/01/2021 - 23:38:08: [weapons.smx] Inactive players' data has been deleted
+L 10/01/2021 - 23:40:03: -------- Mapchange to de_mirage --------
+L 10/01/2021 - 23:40:10: [weapons.smx] Inactive players' data has been deleted
+L 10/02/2021 - 00:00:54: Log file closed.

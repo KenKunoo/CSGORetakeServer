@@ -1,0 +1,9 @@
+L 05/12/2022 - 22:09:53: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20220512.log") (Version "1.11.0.6713")
+L 05/12/2022 - 22:09:53: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 05/12/2022 - 22:09:53: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 05/12/2022 - 22:10:54: [UPDATER] Successfully updated gamedata file "sm-cstrike.games/game.csgo.txt"
+L 05/12/2022 - 22:10:54: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.csgo.txt"
+L 05/12/2022 - 22:10:54: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 05/12/2022 - 22:10:55: -------- Mapchange to de_mirage --------
+L 05/12/2022 - 22:10:58: [weapons.smx] SQLite DB connection successful
+L 05/12/2022 - 22:10:58: [weapons.smx] Inactive players' data has been deleted

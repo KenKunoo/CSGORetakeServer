@@ -1,0 +1,51 @@
+L 02/12/2021 - 19:49:59: SourceMod error session started
+L 02/12/2021 - 19:49:59: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210212.log")
+L 02/12/2021 - 19:49:59: [weapons.smx] Delete Inactive Player Data failed! query: "DELETE FROM weapons WHERE steamid in (SELECT steamid FROM weapons_timestamps WHERE last_seen < 1613188198 - (30 * 86400))" error: "no such table: weapons_timestamps"
+L 02/12/2021 - 20:06:24: SourceMod error session started
+L 02/12/2021 - 20:06:24: Info (map "de_dust2") (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\errors_20210212.log")
+L 02/12/2021 - 20:06:24: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 02/12/2021 - 20:06:24: [SM] Blaming: weapons.smx
+L 02/12/2021 - 20:06:24: [SM] Call stack trace:
+L 02/12/2021 - 20:06:24: [SM]   [0] SetEntProp
+L 02/12/2021 - 20:06:24: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 02/12/2021 - 20:06:24: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 02/12/2021 - 20:06:24: [SM]   [4] GivePlayerItem
+L 02/12/2021 - 20:06:24: [SM]   [5] Line 336, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 02/12/2021 - 20:06:24: [SM]   [6] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 02/12/2021 - 20:06:24: [SM] Exception reported: Invalid data pack handle 0 (error 4).
+L 02/12/2021 - 20:06:24: [SM] Blaming: weapons.smx
+L 02/12/2021 - 20:06:24: [SM] Call stack trace:
+L 02/12/2021 - 20:06:24: [SM]   [0] DataPack.WriteCell
+L 02/12/2021 - 20:06:24: [SM]   [1] Line 349, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 02/12/2021 - 20:06:24: [SM]   [2] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 02/12/2021 - 20:06:25: [SM] Exception reported: Data pack operation is out of bounds.
+L 02/12/2021 - 20:06:25: [SM] Blaming: weapons.smx
+L 02/12/2021 - 20:06:25: [SM] Call stack trace:
+L 02/12/2021 - 20:06:25: [SM]   [0] DataPack.ReadCell
+L 02/12/2021 - 20:06:25: [SM]   [1] Line 367, tmp/addons/sourcemod/scripting/weapons.sp::ReserveAmmoTimer
+L 02/12/2021 - 20:06:40: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 02/12/2021 - 20:06:40: [SM] Blaming: weapons.smx
+L 02/12/2021 - 20:06:40: [SM] Call stack trace:
+L 02/12/2021 - 20:06:40: [SM]   [0] SetEntProp
+L 02/12/2021 - 20:06:40: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 02/12/2021 - 20:06:40: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost
+L 02/12/2021 - 20:06:40: [SM]   [4] GivePlayerItem
+L 02/12/2021 - 20:06:40: [SM]   [5] Line 336, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 02/12/2021 - 20:06:40: [SM]   [6] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 02/12/2021 - 20:06:40: [SM] Exception reported: Invalid data pack handle 0 (error 4).
+L 02/12/2021 - 20:06:40: [SM] Blaming: weapons.smx
+L 02/12/2021 - 20:06:40: [SM] Call stack trace:
+L 02/12/2021 - 20:06:40: [SM]   [0] DataPack.WriteCell
+L 02/12/2021 - 20:06:40: [SM]   [1] Line 349, tmp/addons/sourcemod/scripting/weapons.sp::RefreshWeapon
+L 02/12/2021 - 20:06:40: [SM]   [2] Line 39, tmp/addons/sourcemod/scripting/weapons/menus.sp::WeaponsMenuHandler
+L 02/12/2021 - 20:06:40: [SM] Exception reported: Data pack operation is out of bounds.
+L 02/12/2021 - 20:06:40: [SM] Blaming: weapons.smx
+L 02/12/2021 - 20:06:40: [SM] Call stack trace:
+L 02/12/2021 - 20:06:40: [SM]   [0] DataPack.ReadCell
+L 02/12/2021 - 20:06:40: [SM]   [1] Line 367, tmp/addons/sourcemod/scripting/weapons.sp::ReserveAmmoTimer
+L 02/12/2021 - 20:06:55: [SM] Exception reported: Cannot set m_iItemIDLow with "FollowCSGOServerGuidelines" option enabled.
+L 02/12/2021 - 20:06:55: [SM] Blaming: weapons.smx
+L 02/12/2021 - 20:06:55: [SM] Call stack trace:
+L 02/12/2021 - 20:06:55: [SM]   [0] SetEntProp
+L 02/12/2021 - 20:06:55: [SM]   [1] Line 257, tmp/addons/sourcemod/scripting/weapons.sp::SetWeaponProps
+L 02/12/2021 - 20:06:55: [SM]   [2] Line 55, tmp/addons/sourcemod/scripting/weapons/hooks.sp::GiveNamedItemPost

@@ -1,0 +1,16 @@
+L 03/25/2023 - 00:42:01: SourceMod error session started
+L 03/25/2023 - 00:42:01: Info (map "de_dust2") (file "F:\CSRetake\csgo_server\csgo\addons\sourcemod\logs\errors_20230325.log")
+L 03/25/2023 - 00:42:01: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 03/25/2023 - 00:42:01: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 03/25/2023 - 00:42:01: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 03/25/2023 - 00:42:01: [SM] Unable to load plugin "LagCompensation.smx": Required extension "PhysHooks" file("PhysHooks.ext") not running
+L 03/25/2023 - 00:42:01: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 03/25/2023 - 00:42:01: [SM] Error (line 0, column 0): Stream failed to open
+L 03/25/2023 - 00:42:01: [SM] Fatal error encountered parsing translation file "instadefuse.phrases.txt"
+L 03/25/2023 - 00:42:01: [SM] Error (line 0, column 0): Stream failed to open
+L 03/25/2023 - 00:42:04: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 03/25/2023 - 00:42:04: [SM] Blaming: ranks_matchmaking.smx
+L 03/25/2023 - 00:42:04: [SM] Call stack trace:
+L 03/25/2023 - 00:42:04: [SM]   [0] FormatEx
+L 03/25/2023 - 00:42:04: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 03/25/2023 - 00:42:04: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart

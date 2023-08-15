@@ -1,0 +1,8 @@
+L 10/04/2021 - 19:07:50: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211004.log") (Version "1.11.0.6713")
+L 10/04/2021 - 19:07:50: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 10/04/2021 - 19:07:50: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/04/2021 - 19:08:26: -------- Mapchange to de_dust2 --------
+L 10/04/2021 - 19:08:30: [weapons.smx] SQLite DB connection successful
+L 10/04/2021 - 19:08:30: [weapons.smx] Inactive players' data has been deleted
+L 10/04/2021 - 19:09:40: -------- Mapchange to de_Nuke --------
+L 10/04/2021 - 19:09:42: [weapons.smx] Inactive players' data has been deleted

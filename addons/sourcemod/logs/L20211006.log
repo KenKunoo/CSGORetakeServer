@@ -1,0 +1,25 @@
+L 10/06/2021 - 22:26:01: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211006.log") (Version "1.11.0.6713")
+L 10/06/2021 - 22:26:01: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 10/06/2021 - 22:26:01: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/06/2021 - 22:26:38: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 10/06/2021 - 22:26:38: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 10/06/2021 - 22:26:43: -------- Mapchange to de_dust2 --------
+L 10/06/2021 - 22:26:44: [weapons.smx] SQLite DB connection successful
+L 10/06/2021 - 22:26:45: [weapons.smx] Inactive players' data has been deleted
+L 10/06/2021 - 22:26:45: [weapons.smx] SQLite DB connection successful
+L 10/06/2021 - 22:26:45: [weapons.smx] SQLite DB connection successful
+L 10/06/2021 - 22:26:45: [weapons.smx] Inactive players' data has been deleted
+L 10/06/2021 - 22:26:45: [weapons.smx] Inactive players' data has been deleted
+L 10/06/2021 - 22:30:56: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211006.log") (Version "1.11.0.6713")
+L 10/06/2021 - 22:30:56: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 10/06/2021 - 22:30:56: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/06/2021 - 22:31:25: -------- Mapchange to de_dust2 --------
+L 10/06/2021 - 22:31:26: [weapons.smx] SQLite DB connection successful
+L 10/06/2021 - 22:31:26: [weapons.smx] Inactive players' data has been deleted
+L 10/06/2021 - 22:31:27: [weapons.smx] SQLite DB connection successful
+L 10/06/2021 - 22:31:27: [weapons.smx] SQLite DB connection successful
+L 10/06/2021 - 22:31:27: [weapons.smx] Inactive players' data has been deleted
+L 10/06/2021 - 22:31:27: [weapons.smx] Inactive players' data has been deleted
+L 10/06/2021 - 22:36:50: -------- Mapchange to de_mirage --------
+L 10/06/2021 - 22:36:54: [weapons.smx] Inactive players' data has been deleted
+L 10/07/2021 - 00:00:23: Log file closed.

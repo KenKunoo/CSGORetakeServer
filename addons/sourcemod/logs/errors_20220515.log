@@ -1,0 +1,29 @@
+L 05/15/2022 - 18:54:55: SourceMod error session started
+L 05/15/2022 - 18:54:55: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20220515.log")
+L 05/15/2022 - 18:54:55: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 05/15/2022 - 18:54:57: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 05/15/2022 - 18:54:57: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 05/15/2022 - 18:54:58: [SM] Unable to load plugin "LagCompensation.smx": Required extension "PhysHooks" file("PhysHooks.ext") not running
+L 05/15/2022 - 18:54:59: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 05/15/2022 - 18:54:59: [SM] Error (line 0, column 0): Stream failed to open
+L 05/15/2022 - 18:54:59: [SM] Fatal error encountered parsing translation file "instadefuse.phrases.txt"
+L 05/15/2022 - 18:54:59: [SM] Error (line 0, column 0): Stream failed to open
+L 05/15/2022 - 18:55:20: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 05/15/2022 - 18:55:20: [SM] Blaming: ranks_matchmaking.smx
+L 05/15/2022 - 18:55:20: [SM] Call stack trace:
+L 05/15/2022 - 18:55:20: [SM]   [0] FormatEx
+L 05/15/2022 - 18:55:20: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 05/15/2022 - 18:55:20: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 05/15/2022 - 18:55:25: Error log file session closed.
+L 05/15/2022 - 18:55:26: SourceMod error session started
+L 05/15/2022 - 18:55:26: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20220515.log")
+L 05/15/2022 - 18:55:26: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 05/15/2022 - 18:55:26: [SM] Error (line 0, column 0): Stream failed to open
+L 05/15/2022 - 18:55:26: [SM] Fatal error encountered parsing translation file "instadefuse.phrases.txt"
+L 05/15/2022 - 18:55:26: [SM] Error (line 0, column 0): Stream failed to open
+L 05/15/2022 - 18:55:26: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 05/15/2022 - 18:55:26: [SM] Blaming: ranks_matchmaking.smx
+L 05/15/2022 - 18:55:26: [SM] Call stack trace:
+L 05/15/2022 - 18:55:26: [SM]   [0] FormatEx
+L 05/15/2022 - 18:55:26: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 05/15/2022 - 18:55:26: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart

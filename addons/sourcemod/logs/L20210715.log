@@ -1,0 +1,65 @@
+L 07/15/2021 - 00:09:21: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210715.log") (Version "1.11.0.6713")
+L 07/15/2021 - 00:09:21: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/15/2021 - 00:09:21: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/15/2021 - 00:10:40: -------- Mapchange to de_dust2 --------
+L 07/15/2021 - 00:10:41: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 00:10:41: [weapons.smx] SQLite DB connection successful
+L 07/15/2021 - 00:10:42: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 00:11:29: -------- Mapchange to de_nuke --------
+L 07/15/2021 - 00:11:31: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 00:11:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/15/2021 - 00:11:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/15/2021 - 01:02:38: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210715.log") (Version "1.11.0.6713")
+L 07/15/2021 - 01:02:38: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/15/2021 - 01:02:38: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/15/2021 - 01:02:56: -------- Mapchange to de_dust2 --------
+L 07/15/2021 - 01:02:57: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 01:02:57: [weapons.smx] SQLite DB connection successful
+L 07/15/2021 - 01:02:57: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 01:03:56: -------- Mapchange to de_inferno --------
+L 07/15/2021 - 01:03:58: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 01:04:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/15/2021 - 01:04:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/15/2021 - 13:37:18: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210715.log") (Version "1.11.0.6713")
+L 07/15/2021 - 13:37:18: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/15/2021 - 13:37:18: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/15/2021 - 13:38:19: -------- Mapchange to de_dust2 --------
+L 07/15/2021 - 13:38:21: [weapons.smx] SQLite DB connection successful
+L 07/15/2021 - 13:38:21: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 13:38:21: [weapons.smx] SQLite DB connection successful
+L 07/15/2021 - 13:38:21: [weapons.smx] SQLite DB connection successful
+L 07/15/2021 - 13:38:21: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 13:38:21: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 13:38:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/15/2021 - 13:38:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/15/2021 - 14:18:55: [SM] Changed map to "de_dust2"
+L 07/15/2021 - 14:19:02: -------- Mapchange to de_dust2 --------
+L 07/15/2021 - 17:41:28: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210715.log") (Version "1.11.0.6713")
+L 07/15/2021 - 17:41:28: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/15/2021 - 17:41:28: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/15/2021 - 17:46:42: -------- Mapchange to de_dust2 --------
+L 07/15/2021 - 17:46:44: [weapons.smx] SQLite DB connection successful
+L 07/15/2021 - 17:46:44: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 18:10:00: -------- Mapchange to de_overpass --------
+L 07/15/2021 - 18:10:02: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 18:10:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/15/2021 - 18:10:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/15/2021 - 20:34:33: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210715.log") (Version "1.11.0.6713")
+L 07/15/2021 - 20:34:33: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/15/2021 - 20:34:33: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/15/2021 - 20:34:49: -------- Mapchange to de_dust2 --------
+L 07/15/2021 - 20:34:50: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 20:34:51: [weapons.smx] SQLite DB connection successful
+L 07/15/2021 - 20:34:51: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 20:35:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/15/2021 - 20:35:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/15/2021 - 21:03:13: SourceMod log file session started (file "C:\ESLSERVER\csgoserver\csgo\addons\sourcemod\logs\L20210715.log") (Version "1.11.0.6713")
+L 07/15/2021 - 21:03:13: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/15/2021 - 21:03:13: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/15/2021 - 21:03:38: -------- Mapchange to de_dust2 --------
+L 07/15/2021 - 21:03:39: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 21:03:40: [weapons.smx] SQLite DB connection successful
+L 07/15/2021 - 21:03:40: [weapons.smx] Inactive players' data has been deleted
+L 07/15/2021 - 21:04:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_chatter_use_rr") (value "0")
+L 07/15/2021 - 21:04:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "bot_controllable") (value "0")
+L 07/15/2021 - 21:12:19: [kento_rankme.smx] [RankMe]: Rank has been reset (perfecto)

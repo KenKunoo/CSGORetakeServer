@@ -1,0 +1,16 @@
+L 11/18/2021 - 20:40:01: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211118.log") (Version "1.11.0.6713")
+L 11/18/2021 - 20:40:01: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 11/18/2021 - 20:40:01: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 11/18/2021 - 20:46:45: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211118.log") (Version "1.11.0.6713")
+L 11/18/2021 - 20:46:45: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 11/18/2021 - 20:46:45: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 11/18/2021 - 20:47:14: [UPDATER] Successfully updated gamedata file "sm-tf2.games.txt"
+L 11/18/2021 - 20:47:14: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 11/18/2021 - 20:47:14: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf.txt"
+L 11/18/2021 - 20:47:14: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.contagion.txt"
+L 11/18/2021 - 20:47:14: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.ep2v.txt"
+L 11/18/2021 - 20:47:14: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.contagion.txt"
+L 11/18/2021 - 20:47:14: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 11/18/2021 - 20:47:15: -------- Mapchange to de_mirage --------
+L 11/18/2021 - 20:47:18: [weapons.smx] SQLite DB connection successful
+L 11/18/2021 - 20:47:18: [weapons.smx] Inactive players' data has been deleted

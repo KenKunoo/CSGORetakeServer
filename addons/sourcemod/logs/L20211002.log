@@ -1,0 +1,18 @@
+L 10/02/2021 - 03:33:43: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211002.log") (Version "1.11.0.6713")
+L 10/02/2021 - 03:33:43: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 10/02/2021 - 03:33:43: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/02/2021 - 03:35:02: -------- Mapchange to de_dust2 --------
+L 10/02/2021 - 03:35:05: [weapons.smx] SQLite DB connection successful
+L 10/02/2021 - 03:35:05: [weapons.smx] Inactive players' data has been deleted
+L 10/02/2021 - 03:35:36: -------- Mapchange to de_cache --------
+L 10/02/2021 - 03:35:39: [weapons.smx] Inactive players' data has been deleted
+L 10/02/2021 - 16:36:55: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20211002.log") (Version "1.11.0.6713")
+L 10/02/2021 - 16:36:55: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 10/02/2021 - 16:36:55: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 10/02/2021 - 16:37:24: [UPDATER] Successfully updated gamedata file "sdktools.games/game.left4dead2.txt"
+L 10/02/2021 - 16:37:24: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 10/02/2021 - 16:37:27: -------- Mapchange to de_dust2 --------
+L 10/02/2021 - 16:37:30: [weapons.smx] SQLite DB connection successful
+L 10/02/2021 - 16:37:30: [weapons.smx] Inactive players' data has been deleted
+L 10/02/2021 - 16:38:38: -------- Mapchange to de_mirage --------
+L 10/02/2021 - 16:38:42: [weapons.smx] Inactive players' data has been deleted

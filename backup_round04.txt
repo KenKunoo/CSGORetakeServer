@@ -1,0 +1,864 @@
+"SaveFile"
+{
+	"timestamp"		"2023-07-08 00:29:26"
+	"map"		"de_mirage"
+	"round"		"4"
+	"FirstHalfScore"
+	{
+		"team1"		"0"
+		"team2"		"0"
+	}
+	"History"
+	{
+		"NumConsecutiveTerroristLoses"		"1"
+		"NumConsecutiveCTLoses"		"2"
+		"LoserBonus"		"1400"
+		"LoserMostRecentTeam"		"T"
+	}
+	"RoundResults"
+	{
+		"round1"		"5"
+		"round2"		"5"
+		"round3"		"5"
+		"round4"		"3"
+		"round5"		"0"
+		"round6"		"0"
+		"round7"		"0"
+		"round8"		"0"
+		"round9"		"0"
+		"round10"		"0"
+		"round11"		"0"
+		"round12"		"0"
+		"round13"		"0"
+		"round14"		"0"
+		"round15"		"0"
+		"round16"		"0"
+		"round17"		"0"
+		"round18"		"0"
+		"round19"		"0"
+		"round20"		"0"
+		"round21"		"0"
+		"round22"		"0"
+		"round23"		"0"
+		"round24"		"0"
+		"round25"		"0"
+		"round26"		"0"
+		"round27"		"0"
+		"round28"		"0"
+		"round29"		"0"
+		"round30"		"0"
+	}
+	"PlayersAliveT"
+	{
+		"round1"		"1"
+		"round2"		"2"
+		"round3"		"2"
+		"round4"		"0"
+		"round5"		"63"
+		"round6"		"63"
+		"round7"		"63"
+		"round8"		"63"
+		"round9"		"63"
+		"round10"		"63"
+		"round11"		"63"
+		"round12"		"63"
+		"round13"		"63"
+		"round14"		"63"
+		"round15"		"63"
+		"round16"		"63"
+		"round17"		"63"
+		"round18"		"63"
+		"round19"		"63"
+		"round20"		"63"
+		"round21"		"63"
+		"round22"		"63"
+		"round23"		"63"
+		"round24"		"63"
+		"round25"		"63"
+		"round26"		"63"
+		"round27"		"63"
+		"round28"		"63"
+		"round29"		"63"
+		"round30"		"63"
+	}
+	"PlayersAliveCT"
+	{
+		"round1"		"0"
+		"round2"		"0"
+		"round3"		"0"
+		"round4"		"3"
+		"round5"		"63"
+		"round6"		"63"
+		"round7"		"63"
+		"round8"		"63"
+		"round9"		"63"
+		"round10"		"63"
+		"round11"		"63"
+		"round12"		"63"
+		"round13"		"63"
+		"round14"		"63"
+		"round15"		"63"
+		"round16"		"63"
+		"round17"		"63"
+		"round18"		"63"
+		"round19"		"63"
+		"round20"		"63"
+		"round21"		"63"
+		"round22"		"63"
+		"round23"		"63"
+		"round24"		"63"
+		"round25"		"63"
+		"round26"		"63"
+		"round27"		"63"
+		"round28"		"63"
+		"round29"		"63"
+		"round30"		"63"
+	}
+	"Timeouts"
+	{
+		"team1"		"1"
+		"team2"		"1"
+		"technical"
+		{
+			"team1"		"0"
+			"team2"		"0"
+		}
+	}
+	"PlayersOnTeam1"
+	{
+		"922981175"
+		{
+			"name"		"Pepispig"
+			"kills"		"5"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"2"
+			"score"		"13"
+			"cash"		"800"
+			"enemyKs"		"5"
+			"enemyHSs"		"4"
+			"enemy2Ks"		"0"
+			"enemy3Ks"		"1"
+			"enemy4Ks"		"0"
+			"enemy5Ks"		"0"
+			"enemyKAg"		"5"
+			"enemyDamageDealt"		"100"
+			"firstKs"		"2"
+			"clutchKs"		"1"
+			"kills_weapon_pistol"		"5"
+			"kills_weapon_sniper"		"0"
+			"roundsWon"		"3"
+			"helmet"		"0"
+			"armor"		"100"
+			"Items"
+			{
+				"item"		"weapon_usp_silencer"
+				"item"		"weapon_bayonet"
+			}
+			"MatchStats"
+			{
+				"Kills"
+				{
+					"round1"		"1"
+					"round2"		"3"
+					"round4"		"1"
+				}
+				"Damage"
+				{
+					"round1"		"109"
+					"round2"		"262"
+					"round4"		"100"
+				}
+				"EquipmentValue"
+				{
+					"round1"		"850"
+					"round2"		"850"
+					"round3"		"5000"
+					"round4"		"850"
+				}
+				"MoneySaved"
+				{
+					"round1"		"800"
+					"round2"		"800"
+					"round3"		"800"
+					"round4"		"800"
+				}
+				"LiveTime"
+				{
+					"round1"		"15"
+					"round3"		"5"
+				}
+				"CashEarned"
+				{
+					"round1"		"800"
+				}
+				"HeadShotKills"
+				{
+					"round2"		"3"
+					"round4"		"1"
+				}
+				"Deaths"
+				{
+					"round3"		"1"
+				}
+				"Objective"
+				{
+					"round4"		"1"
+				}
+				"Totals"
+				{
+					"Kills"		"5"
+					"Damage"		"471"
+					"EquipmentValue"		"7550"
+					"KillReward"		"0"
+					"LiveTime"		"5"
+					"Deaths"		"1"
+					"Assists"		"0"
+					"HeadshotKills"		"4"
+					"Objective"		"1"
+					"CashEarned"		"0"
+					"UtilityDamage"		"0"
+					"UtilityCount"		"0"
+					"UtilitySuccesses"		"0"
+					"UtilityEnemies"		"0"
+					"FlashCount"		"0"
+					"FlashSuccesses"		"0"
+					"EnemiesFlashed"		"0"
+					"1v1Count"		"1"
+					"1v1Wins"		"1"
+					"1v2Count"		"0"
+					"1v2Wins"		"0"
+					"EntryCount"		"3"
+					"EntryWins"		"2"
+				}
+			}
+			"ItemCooldown"
+			{
+				"heavyassaultsuit"		"-4"
+			}
+		}
+		"163194616"
+		{
+			"name"		"GoosCaboos"
+			"kills"		"0"
+			"assists"		"0"
+			"deaths"		"3"
+			"mvps"		"0"
+			"score"		"1"
+			"cash"		"800"
+			"enemyKs"		"0"
+			"enemyHSs"		"0"
+			"enemy2Ks"		"0"
+			"enemy3Ks"		"0"
+			"enemy4Ks"		"0"
+			"enemy5Ks"		"0"
+			"enemyKAg"		"0"
+			"enemyDamageDealt"		"0"
+			"firstKs"		"0"
+			"clutchKs"		"0"
+			"kills_weapon_pistol"		"0"
+			"kills_weapon_sniper"		"0"
+			"roundsWon"		"1"
+			"helmet"		"0"
+			"armor"		"100"
+			"Items"
+			{
+				"item"		"weapon_usp_silencer"
+				"item"		"weapon_knife"
+			}
+			"MatchStats"
+			{
+				"EquipmentValue"
+				{
+					"round1"		"850"
+					"round2"		"850"
+					"round3"		"4700"
+					"round4"		"850"
+				}
+				"MoneySaved"
+				{
+					"round1"		"800"
+					"round2"		"800"
+					"round3"		"800"
+					"round4"		"800"
+				}
+				"LiveTime"
+				{
+					"round1"		"12"
+					"round2"		"6"
+					"round3"		"12"
+				}
+				"Deaths"
+				{
+					"round1"		"1"
+					"round2"		"1"
+					"round3"		"1"
+				}
+				"CashEarned"
+				{
+					"round1"		"800"
+				}
+				"Damage"
+				{
+					"round3"		"23"
+				}
+				"Totals"
+				{
+					"Kills"		"0"
+					"Damage"		"23"
+					"EquipmentValue"		"7250"
+					"KillReward"		"0"
+					"LiveTime"		"30"
+					"Deaths"		"3"
+					"Assists"		"0"
+					"HeadshotKills"		"0"
+					"Objective"		"0"
+					"CashEarned"		"0"
+					"UtilityDamage"		"0"
+					"UtilityCount"		"0"
+					"UtilitySuccesses"		"0"
+					"UtilityEnemies"		"0"
+					"FlashCount"		"0"
+					"FlashSuccesses"		"0"
+					"EnemiesFlashed"		"0"
+					"1v1Count"		"0"
+					"1v1Wins"		"0"
+					"1v2Count"		"0"
+					"1v2Wins"		"0"
+					"EntryCount"		"2"
+					"EntryWins"		"0"
+				}
+			}
+			"ItemCooldown"
+			{
+				"heavyassaultsuit"		"-4"
+			}
+		}
+		"1041213114"
+		{
+			"name"		"blackieondabeny"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"3"
+			"mvps"		"0"
+			"score"		"3"
+			"cash"		"800"
+			"enemyKs"		"1"
+			"enemyHSs"		"1"
+			"enemy2Ks"		"0"
+			"enemy3Ks"		"0"
+			"enemy4Ks"		"0"
+			"enemy5Ks"		"0"
+			"enemyKAg"		"1"
+			"enemyDamageDealt"		"100"
+			"firstKs"		"0"
+			"clutchKs"		"0"
+			"kills_weapon_pistol"		"1"
+			"kills_weapon_sniper"		"0"
+			"roundsWon"		"1"
+			"helmet"		"0"
+			"armor"		"98"
+			"Items"
+			{
+				"item"		"weapon_usp_silencer"
+				"item"		"weapon_knife"
+			}
+			"MatchStats"
+			{
+				"EquipmentValue"
+				{
+					"round1"		"850"
+					"round2"		"850"
+					"round3"		"5100"
+					"round4"		"850"
+				}
+				"MoneySaved"
+				{
+					"round1"		"800"
+					"round2"		"800"
+					"round3"		"800"
+					"round4"		"800"
+				}
+				"LiveTime"
+				{
+					"round1"		"13"
+					"round2"		"13"
+					"round3"		"15"
+				}
+				"Deaths"
+				{
+					"round1"		"1"
+					"round2"		"1"
+					"round3"		"1"
+				}
+				"CashEarned"
+				{
+					"round1"		"800"
+				}
+				"Damage"
+				{
+					"round2"		"46"
+					"round4"		"100"
+				}
+				"Kills"
+				{
+					"round4"		"1"
+				}
+				"HeadShotKills"
+				{
+					"round4"		"1"
+				}
+				"Totals"
+				{
+					"Kills"		"1"
+					"Damage"		"146"
+					"EquipmentValue"		"7650"
+					"KillReward"		"0"
+					"LiveTime"		"41"
+					"Deaths"		"3"
+					"Assists"		"0"
+					"HeadshotKills"		"1"
+					"Objective"		"0"
+					"CashEarned"		"0"
+					"UtilityDamage"		"0"
+					"UtilityCount"		"0"
+					"UtilitySuccesses"		"0"
+					"UtilityEnemies"		"0"
+					"FlashCount"		"0"
+					"FlashSuccesses"		"0"
+					"EnemiesFlashed"		"0"
+					"1v1Count"		"0"
+					"1v1Wins"		"0"
+					"1v2Count"		"2"
+					"1v2Wins"		"0"
+					"EntryCount"		"0"
+					"EntryWins"		"0"
+				}
+			}
+			"ItemCooldown"
+			{
+				"heavyassaultsuit"		"-4"
+			}
+		}
+		"390760293"
+		{
+			"name"		"FamousOneDay"
+			"disconnected"		"disconnected"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"3"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"800"
+			"enemyKs"		"1"
+			"enemyHSs"		"1"
+			"enemyDamageDealt"		"187"
+			"enemy2Ks"		"0"
+			"enemy3Ks"		"0"
+			"enemy4Ks"		"0"
+			"enemy5Ks"		"0"
+			"enemyKAg"		"1"
+			"firstKs"		"0"
+			"clutchKs"		"1"
+			"kills_weapon_pistol"		"1"
+			"kills_weapon_sniper"		"0"
+			"roundsWon"		"1"
+			"MatchStats"
+			{
+				"Kills"
+				{
+					"round1"		"1"
+				}
+				"Damage"
+				{
+					"round1"		"100"
+					"round3"		"13"
+					"round4"		"74"
+				}
+				"EquipmentValue"
+				{
+					"round1"		"850"
+					"round2"		"850"
+					"round3"		"4700"
+					"round4"		"700"
+				}
+				"MoneySaved"
+				{
+					"round1"		"800"
+					"round2"		"800"
+					"round3"		"800"
+					"round4"		"800"
+				}
+				"LiveTime"
+				{
+					"round1"		"25"
+					"round2"		"25"
+					"round4"		"7"
+				}
+				"Deaths"
+				{
+					"round1"		"1"
+					"round2"		"1"
+					"round4"		"1"
+				}
+				"HeadShotKills"
+				{
+					"round1"		"1"
+				}
+				"CashEarned"
+				{
+					"round1"		"800"
+				}
+				"UtilityDamage"
+				{
+					"round3"		"13"
+				}
+				"Totals"
+				{
+					"Kills"		"1"
+					"Damage"		"187"
+					"EquipmentValue"		"7100"
+					"KillReward"		"0"
+					"LiveTime"		"40"
+					"Deaths"		"3"
+					"Assists"		"0"
+					"HeadshotKills"		"1"
+					"Objective"		"0"
+					"CashEarned"		"0"
+					"UtilityDamage"		"13"
+					"UtilityCount"		"1"
+					"UtilitySuccesses"		"1"
+					"UtilityEnemies"		"1"
+					"FlashCount"		"0"
+					"FlashSuccesses"		"0"
+					"EnemiesFlashed"		"0"
+					"1v1Count"		"1"
+					"1v1Wins"		"0"
+					"1v2Count"		"0"
+					"1v2Wins"		"0"
+					"EntryCount"		"0"
+					"EntryWins"		"0"
+				}
+			}
+			"ItemCooldown"
+			{
+				"heavyassaultsuit"		"-4"
+			}
+		}
+	}
+	"PlayersOnTeam2"
+	{
+		"411831047"
+		{
+			"name"		"Tim"
+			"kills"		"5"
+			"assists"		"0"
+			"deaths"		"2"
+			"mvps"		"2"
+			"score"		"11"
+			"cash"		"800"
+			"enemyKs"		"5"
+			"enemyHSs"		"4"
+			"enemy2Ks"		"1"
+			"enemy3Ks"		"1"
+			"enemy4Ks"		"0"
+			"enemy5Ks"		"0"
+			"enemyKAg"		"5"
+			"enemyDamageDealt"		"0"
+			"firstKs"		"2"
+			"clutchKs"		"0"
+			"kills_weapon_pistol"		"2"
+			"kills_weapon_sniper"		"0"
+			"roundsWon"		"3"
+			"helmet"		"0"
+			"MatchStats"
+			{
+				"Kills"
+				{
+					"round1"		"2"
+					"round3"		"3"
+				}
+				"Damage"
+				{
+					"round1"		"191"
+					"round2"		"38"
+					"round3"		"287"
+				}
+				"EquipmentValue"
+				{
+					"round1"		"700"
+					"round2"		"700"
+					"round3"		"4800"
+					"round4"		"700"
+				}
+				"MoneySaved"
+				{
+					"round1"		"800"
+					"round2"		"800"
+					"round3"		"800"
+					"round4"		"800"
+				}
+				"LiveTime"
+				{
+					"round1"		"29"
+					"round2"		"17"
+					"round4"		"6"
+				}
+				"Deaths"
+				{
+					"round1"		"1"
+					"round4"		"1"
+				}
+				"HeadShotKills"
+				{
+					"round1"		"2"
+					"round3"		"2"
+				}
+				"CashEarned"
+				{
+					"round1"		"800"
+				}
+				"Totals"
+				{
+					"Kills"		"5"
+					"Damage"		"516"
+					"EquipmentValue"		"6900"
+					"KillReward"		"0"
+					"LiveTime"		"20"
+					"Deaths"		"2"
+					"Assists"		"0"
+					"HeadshotKills"		"4"
+					"Objective"		"0"
+					"CashEarned"		"0"
+					"UtilityDamage"		"0"
+					"UtilityCount"		"0"
+					"UtilitySuccesses"		"0"
+					"UtilityEnemies"		"0"
+					"FlashCount"		"0"
+					"FlashSuccesses"		"0"
+					"EnemiesFlashed"		"0"
+					"1v1Count"		"0"
+					"1v1Wins"		"0"
+					"1v2Count"		"0"
+					"1v2Wins"		"0"
+					"EntryCount"		"3"
+					"EntryWins"		"2"
+				}
+			}
+			"ItemCooldown"
+			{
+				"heavyassaultsuit"		"-4"
+			}
+		}
+		"390760293"
+		{
+			"name"		"FamousOneDay"
+			"kills"		"1"
+			"assists"		"0"
+			"deaths"		"3"
+			"mvps"		"0"
+			"score"		"2"
+			"cash"		"800"
+			"enemyKs"		"1"
+			"enemyHSs"		"1"
+			"enemy2Ks"		"0"
+			"enemy3Ks"		"0"
+			"enemy4Ks"		"0"
+			"enemy5Ks"		"0"
+			"enemyKAg"		"1"
+			"enemyDamageDealt"		"74"
+			"firstKs"		"0"
+			"clutchKs"		"1"
+			"kills_weapon_pistol"		"1"
+			"kills_weapon_sniper"		"0"
+			"roundsWon"		"1"
+			"helmet"		"0"
+			"MatchStats"
+			{
+				"Kills"
+				{
+					"round1"		"1"
+				}
+				"Damage"
+				{
+					"round1"		"100"
+					"round3"		"13"
+					"round4"		"74"
+				}
+				"EquipmentValue"
+				{
+					"round1"		"850"
+					"round2"		"850"
+					"round3"		"4700"
+					"round4"		"700"
+				}
+				"MoneySaved"
+				{
+					"round1"		"800"
+					"round2"		"800"
+					"round3"		"800"
+					"round4"		"800"
+				}
+				"LiveTime"
+				{
+					"round1"		"25"
+					"round2"		"25"
+					"round4"		"7"
+				}
+				"Deaths"
+				{
+					"round1"		"1"
+					"round2"		"1"
+					"round4"		"1"
+				}
+				"HeadShotKills"
+				{
+					"round1"		"1"
+				}
+				"CashEarned"
+				{
+					"round1"		"800"
+				}
+				"UtilityDamage"
+				{
+					"round3"		"13"
+				}
+				"Totals"
+				{
+					"Kills"		"1"
+					"Damage"		"187"
+					"EquipmentValue"		"7100"
+					"KillReward"		"0"
+					"LiveTime"		"40"
+					"Deaths"		"3"
+					"Assists"		"0"
+					"HeadshotKills"		"1"
+					"Objective"		"0"
+					"CashEarned"		"0"
+					"UtilityDamage"		"13"
+					"UtilityCount"		"1"
+					"UtilitySuccesses"		"1"
+					"UtilityEnemies"		"1"
+					"FlashCount"		"0"
+					"FlashSuccesses"		"0"
+					"EnemiesFlashed"		"0"
+					"1v1Count"		"1"
+					"1v1Wins"		"0"
+					"1v2Count"		"0"
+					"1v2Wins"		"0"
+					"EntryCount"		"0"
+					"EntryWins"		"0"
+				}
+			}
+			"ItemCooldown"
+			{
+				"heavyassaultsuit"		"-4"
+			}
+		}
+		"922981175"
+		{
+			"name"		"Pepispig"
+			"disconnected"		"disconnected"
+			"kills"		"5"
+			"assists"		"0"
+			"deaths"		"1"
+			"mvps"		"2"
+			"score"		"13"
+			"cash"		"800"
+			"enemyKs"		"5"
+			"enemyHSs"		"4"
+			"enemyDamageDealt"		"471"
+			"enemy2Ks"		"0"
+			"enemy3Ks"		"1"
+			"enemy4Ks"		"0"
+			"enemy5Ks"		"0"
+			"enemyKAg"		"5"
+			"firstKs"		"2"
+			"clutchKs"		"1"
+			"kills_weapon_pistol"		"5"
+			"kills_weapon_sniper"		"0"
+			"roundsWon"		"3"
+			"MatchStats"
+			{
+				"Kills"
+				{
+					"round1"		"1"
+					"round2"		"3"
+					"round4"		"1"
+				}
+				"Damage"
+				{
+					"round1"		"109"
+					"round2"		"262"
+					"round4"		"100"
+				}
+				"EquipmentValue"
+				{
+					"round1"		"850"
+					"round2"		"850"
+					"round3"		"5000"
+					"round4"		"850"
+				}
+				"MoneySaved"
+				{
+					"round1"		"800"
+					"round2"		"800"
+					"round3"		"800"
+					"round4"		"800"
+				}
+				"LiveTime"
+				{
+					"round1"		"15"
+					"round3"		"5"
+				}
+				"CashEarned"
+				{
+					"round1"		"800"
+				}
+				"HeadShotKills"
+				{
+					"round2"		"3"
+					"round4"		"1"
+				}
+				"Deaths"
+				{
+					"round3"		"1"
+				}
+				"Objective"
+				{
+					"round4"		"1"
+				}
+				"Totals"
+				{
+					"Kills"		"5"
+					"Damage"		"471"
+					"EquipmentValue"		"7550"
+					"KillReward"		"0"
+					"LiveTime"		"5"
+					"Deaths"		"1"
+					"Assists"		"0"
+					"HeadshotKills"		"4"
+					"Objective"		"1"
+					"CashEarned"		"0"
+					"UtilityDamage"		"0"
+					"UtilityCount"		"0"
+					"UtilitySuccesses"		"0"
+					"UtilityEnemies"		"0"
+					"FlashCount"		"0"
+					"FlashSuccesses"		"0"
+					"EnemiesFlashed"		"0"
+					"1v1Count"		"1"
+					"1v1Wins"		"1"
+					"1v2Count"		"0"
+					"1v2Wins"		"0"
+					"EntryCount"		"3"
+					"EntryWins"		"2"
+				}
+			}
+			"ItemCooldown"
+			{
+				"heavyassaultsuit"		"-4"
+			}
+		}
+	}
+}

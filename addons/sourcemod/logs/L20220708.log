@@ -1,0 +1,21 @@
+L 07/08/2022 - 00:03:17: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20220708.log") (Version "1.11.0.6713")
+L 07/08/2022 - 00:03:17: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 07/08/2022 - 00:03:17: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/08/2022 - 00:18:57: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20220708.log") (Version "1.12.0.6908")
+L 07/08/2022 - 00:18:57: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (E:\retake\csgoserver\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 07/08/2022 - 00:18:57: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/08/2022 - 00:18:57: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/08/2022 - 00:19:26: -------- Mapchange to de_mirage --------
+L 07/08/2022 - 00:19:29: [weapons.smx] SQLite DB connection successful
+L 07/08/2022 - 00:19:29: [weapons.smx] Inactive players' data has been deleted
+L 07/08/2022 - 00:54:13: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20220708.log") (Version "1.12.0.6908")
+L 07/08/2022 - 00:54:13: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (E:\retake\csgoserver\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 07/08/2022 - 00:54:13: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 07/08/2022 - 00:54:13: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 07/08/2022 - 00:55:50: -------- Mapchange to de_mirage --------
+L 07/08/2022 - 00:55:51: [weapons.smx] SQLite DB connection successful
+L 07/08/2022 - 00:55:52: [weapons.smx] Inactive players' data has been deleted
+L 07/08/2022 - 00:55:52: [weapons.smx] SQLite DB connection successful
+L 07/08/2022 - 00:55:52: [weapons.smx] SQLite DB connection successful
+L 07/08/2022 - 00:55:52: [weapons.smx] Inactive players' data has been deleted
+L 07/08/2022 - 00:55:52: [weapons.smx] Inactive players' data has been deleted

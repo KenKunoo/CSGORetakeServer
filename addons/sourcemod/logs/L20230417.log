@@ -1,0 +1,20 @@
+L 04/17/2023 - 00:54:54: SourceMod log file session started (file "F:\CSRetake\csgo_server\csgo\addons\sourcemod\logs\L20230417.log") (Version "1.11.0.6932")
+L 04/17/2023 - 00:54:54: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (F:\CSRetake\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 04/17/2023 - 00:54:54: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 04/17/2023 - 00:54:54: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/17/2023 - 01:44:02: SourceMod log file session started (file "F:\CSRetake\csgo_server\csgo\addons\sourcemod\logs\L20230417.log") (Version "1.11.0.6932")
+L 04/17/2023 - 01:44:02: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (F:\CSRetake\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 04/17/2023 - 01:44:02: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 04/17/2023 - 01:44:02: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/17/2023 - 01:44:45: SourceMod log file session started (file "F:\CSRetake\csgo_server\csgo\addons\sourcemod\logs\L20230417.log") (Version "1.11.0.6932")
+L 04/17/2023 - 01:44:45: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC) (F:\CSRetake\csgo_server\csgo\addons\sourcemod\configs\geoip\GeoLite2-City.mmdb)
+L 04/17/2023 - 01:44:45: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 04/17/2023 - 01:44:45: [GEOIP] Your database is older than 90 days. You should consider downloading a newer version from e.g. https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+L 04/17/2023 - 01:45:04: -------- Mapchange to de_dust2 --------
+L 04/17/2023 - 01:45:05: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nucleardawn.txt"
+L 04/17/2023 - 01:45:05: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 04/17/2023 - 01:45:05: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 04/17/2023 - 01:45:07: [weapons.smx] SQLite DB connection successful
+L 04/17/2023 - 01:45:07: [weapons.smx] Inactive players' data has been deleted
+L 04/17/2023 - 02:36:16: -------- Mapchange to de_mirage --------
+L 04/17/2023 - 02:36:20: [weapons.smx] Inactive players' data has been deleted

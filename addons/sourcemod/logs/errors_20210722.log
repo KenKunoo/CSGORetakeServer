@@ -1,0 +1,34 @@
+L 07/22/2021 - 02:53:43: SourceMod error session started
+L 07/22/2021 - 02:53:43: Info (map "de_dust2") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20210722.log")
+L 07/22/2021 - 02:53:43: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 07/22/2021 - 02:53:43: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 07/22/2021 - 02:53:44: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/22/2021 - 02:53:44: [SM] Error (line 0, column 0): Stream failed to open
+L 07/22/2021 - 02:53:45: [SM] Fatal error encountered parsing translation file "instadefuse.phrases.txt"
+L 07/22/2021 - 02:53:45: [SM] Error (line 0, column 0): Stream failed to open
+L 07/22/2021 - 02:54:01: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/22/2021 - 02:54:01: [SM] Blaming: ranks_matchmaking.smx
+L 07/22/2021 - 02:54:01: [SM] Call stack trace:
+L 07/22/2021 - 02:54:01: [SM]   [0] FormatEx
+L 07/22/2021 - 02:54:01: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/22/2021 - 02:54:01: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart
+L 07/22/2021 - 02:54:11: Error log file session closed.
+L 07/22/2021 - 02:54:11: SourceMod error session started
+L 07/22/2021 - 02:54:11: Info (map "de_dust2") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20210722.log")
+L 07/22/2021 - 02:54:11: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 07/22/2021 - 02:54:12: [SM] Error (line 0, column 0): Stream failed to open
+L 07/22/2021 - 02:54:12: [SM] Fatal error encountered parsing translation file "instadefuse.phrases.txt"
+L 07/22/2021 - 02:54:12: [SM] Error (line 0, column 0): Stream failed to open
+L 07/22/2021 - 02:54:13: [nextmap.smx] FATAL: Cannot load map cycle. Nextmap not loaded.
+L 07/22/2021 - 02:54:13: [SM] Exception reported: Mapcycle Not Found
+L 07/22/2021 - 02:54:13: [SM] Blaming: nextmap.smx
+L 07/22/2021 - 02:54:13: [SM] Call stack trace:
+L 07/22/2021 - 02:54:13: [SM]   [0] SetFailState
+L 07/22/2021 - 02:54:13: [SM]   [1] Line 143, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::FindAndSetNextMap
+L 07/22/2021 - 02:54:13: [SM]   [2] Line 113, D:\builds\build-sourcemod-msvc12\windows-1.11\build\plugins\nextmap.sp::OnConfigsExecuted
+L 07/22/2021 - 02:54:15: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 07/22/2021 - 02:54:15: [SM] Blaming: ranks_matchmaking.smx
+L 07/22/2021 - 02:54:15: [SM] Call stack trace:
+L 07/22/2021 - 02:54:15: [SM]   [0] FormatEx
+L 07/22/2021 - 02:54:15: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 07/22/2021 - 02:54:15: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart

@@ -1,0 +1,20 @@
+L 03/11/2022 - 00:51:03: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20220311.log") (Version "1.11.0.6713")
+L 03/11/2022 - 00:51:03: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 03/11/2022 - 00:51:03: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 03/11/2022 - 00:51:59: [UPDATER] Successfully updated gamedata file "sdktools.games/game.cstrike.txt"
+L 03/11/2022 - 00:51:59: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.csgo.txt"
+L 03/11/2022 - 00:51:59: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.l4d.txt"
+L 03/11/2022 - 00:51:59: [UPDATER] Successfully updated gamedata file "sdktools.games/game.zpanic.txt"
+L 03/11/2022 - 00:51:59: [UPDATER] Successfully updated gamedata file "sdktools.games/engine.css.txt"
+L 03/11/2022 - 00:51:59: [UPDATER] Successfully updated gamedata file "sdktools.games/game.nmrih.txt"
+L 03/11/2022 - 00:52:00: [UPDATER] Successfully updated gamedata file "sdktools.games/game.tf.txt"
+L 03/11/2022 - 00:52:00: [UPDATER] Successfully updated gamedata file "sdktools.games/game.left4dead2.txt"
+L 03/11/2022 - 00:52:00: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.zpanic.txt"
+L 03/11/2022 - 00:52:00: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 03/11/2022 - 00:52:02: -------- Mapchange to de_mirage --------
+L 03/11/2022 - 00:52:03: [weapons.smx] SQLite DB connection successful
+L 03/11/2022 - 00:52:04: [weapons.smx] Inactive players' data has been deleted
+L 03/11/2022 - 00:52:05: [weapons.smx] SQLite DB connection successful
+L 03/11/2022 - 00:52:05: [weapons.smx] SQLite DB connection successful
+L 03/11/2022 - 00:52:05: [weapons.smx] Inactive players' data has been deleted
+L 03/11/2022 - 00:52:05: [weapons.smx] Inactive players' data has been deleted

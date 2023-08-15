@@ -1,0 +1,56 @@
+L 10/28/2021 - 23:56:17: SourceMod error session started
+L 10/28/2021 - 23:56:17: Info (map "de_mirage") (file "e:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20211028.log")
+L 10/28/2021 - 23:56:17: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 10/28/2021 - 23:56:20: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:20: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:20: [SM] Unable to load plugin "bot_inventory.smx": Native "eItems_AreItemsSynced" was not found
+L 10/28/2021 - 23:56:20: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:20: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:20: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:20: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:20: [SM] Unable to load plugin "bot_stuff.smx": Could not find required plugin "navmesh"
+L 10/28/2021 - 23:56:20: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:20: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:20: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:20: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:20: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:20: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:21: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:21: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:21: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:21: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:21: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:21: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:21: [SM] Unable to load plugin "LagCompensation.smx": Required extension "PhysHooks" file("PhysHooks.ext") not running
+L 10/28/2021 - 23:56:21: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:21: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:21: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:21: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:21: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:21: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:22: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:22: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:22: [SM] Fatal error encountered parsing translation file "ranks_matchmaking.phrases.txt"
+L 10/28/2021 - 23:56:22: [SM] Error (line 0, column 0): Stream failed to open
+L 10/28/2021 - 23:56:22: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:22: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:22: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:22: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:22: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:22: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:22: [SM] Fatal error encountered parsing translation file "instadefuse.phrases.txt"
+L 10/28/2021 - 23:56:22: [SM] Error (line 0, column 0): Stream failed to open
+L 10/28/2021 - 23:56:22: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:22: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:22: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:22: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:22: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:22: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:22: [CSTRIKE] Sigscan for HandleCommand_Buy_Internal failed
+L 10/28/2021 - 23:56:22: [CSTRIKE] HandleCommand_Buy_Internal detour could not be initialized - Disabled OnBuyCommand forward
+L 10/28/2021 - 23:56:42: [SM] Exception reported: Language phrase "Unranked" not found (arg 5)
+L 10/28/2021 - 23:56:42: [SM] Blaming: ranks_matchmaking.smx
+L 10/28/2021 - 23:56:42: [SM] Call stack trace:
+L 10/28/2021 - 23:56:42: [SM]   [0] FormatEx
+L 10/28/2021 - 23:56:42: [SM]   [1] Line 174, ranks_matchmaking.sp::GetRanksNames
+L 10/28/2021 - 23:56:42: [SM]   [2] Line 169, ranks_matchmaking.sp::OnMapStart

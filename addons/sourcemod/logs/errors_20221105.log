@@ -1,0 +1,52 @@
+L 11/05/2022 - 22:38:49: SourceMod error session started
+L 11/05/2022 - 22:38:49: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 22:38:49: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 22:38:51: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 22:40:18: SourceMod error session started
+L 11/05/2022 - 22:40:18: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 22:40:18: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 22:40:19: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 22:40:25: SourceMod error session started
+L 11/05/2022 - 22:40:25: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 22:40:25: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 22:40:25: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 22:41:08: SourceMod error session started
+L 11/05/2022 - 22:41:08: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 22:41:08: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 22:41:08: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 22:45:53: SourceMod error session started
+L 11/05/2022 - 22:45:53: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 22:45:53: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 22:45:53: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 22:47:00: SourceMod error session started
+L 11/05/2022 - 22:47:00: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 22:47:00: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 22:47:00: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 22:49:45: SourceMod error session started
+L 11/05/2022 - 22:49:45: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 22:49:45: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 22:49:45: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 22:51:56: SourceMod error session started
+L 11/05/2022 - 22:51:56: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 22:51:56: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 22:51:56: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 22:52:28: SourceMod error session started
+L 11/05/2022 - 22:52:28: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 22:52:28: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 22:52:28: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 23:06:08: SourceMod error session started
+L 11/05/2022 - 23:06:08: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 23:06:08: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 23:06:09: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 23:08:11: SourceMod error session started
+L 11/05/2022 - 23:08:11: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 23:08:11: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 23:08:11: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 23:08:21: SourceMod error session started
+L 11/05/2022 - 23:08:21: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 23:08:21: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 23:08:21: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions
+L 11/05/2022 - 23:10:42: SourceMod error session started
+L 11/05/2022 - 23:10:42: Info (map "de_mirage") (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\errors_20221105.log")
+L 11/05/2022 - 23:10:42: [CSTRIKE] [CStrike] Failed to locate NET_SendPacket signature.
+L 11/05/2022 - 23:10:42: [SM] Unable to load extension "PhysHooks.ext": Could not find patch signature for symbol: Physics_RunThinkFunctions

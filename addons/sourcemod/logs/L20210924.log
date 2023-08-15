@@ -1,0 +1,36 @@
+L 09/24/2021 - 01:59:11: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20210924.log") (Version "1.11.0.6713")
+L 09/24/2021 - 01:59:11: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 09/24/2021 - 01:59:11: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 09/24/2021 - 01:59:39: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.csgo.txt"
+L 09/24/2021 - 01:59:39: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 09/24/2021 - 01:59:44: -------- Mapchange to de_dust2 --------
+L 09/24/2021 - 01:59:46: [weapons.smx] SQLite DB connection successful
+L 09/24/2021 - 01:59:46: [weapons.smx] Inactive players' data has been deleted
+L 09/24/2021 - 01:59:46: [weapons.smx] SQLite DB connection successful
+L 09/24/2021 - 01:59:46: [weapons.smx] SQLite DB connection successful
+L 09/24/2021 - 01:59:46: [weapons.smx] Inactive players' data has been deleted
+L 09/24/2021 - 01:59:46: [weapons.smx] Inactive players' data has been deleted
+L 09/24/2021 - 02:06:15: -------- Mapchange to de_overpass --------
+L 09/24/2021 - 02:06:17: [weapons.smx] Inactive players' data has been deleted
+L 09/24/2021 - 02:13:35: -------- Mapchange to de_mirage --------
+L 09/24/2021 - 02:13:39: [weapons.smx] Inactive players' data has been deleted
+L 09/24/2021 - 03:55:08: -------- Mapchange to de_inferno --------
+L 09/24/2021 - 03:55:11: [weapons.smx] Inactive players' data has been deleted
+L 09/24/2021 - 17:41:13: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20210924.log") (Version "1.11.0.6713")
+L 09/24/2021 - 17:41:13: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 09/24/2021 - 17:41:13: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 09/24/2021 - 17:41:45: -------- Mapchange to de_dust2 --------
+L 09/24/2021 - 17:41:48: [weapons.smx] SQLite DB connection successful
+L 09/24/2021 - 17:41:48: [weapons.smx] Inactive players' data has been deleted
+L 09/24/2021 - 17:42:57: -------- Mapchange to de_overpass --------
+L 09/24/2021 - 17:43:00: [weapons.smx] Inactive players' data has been deleted
+L 09/24/2021 - 18:51:03: SourceMod log file session started (file "E:\retake\csgoserver\csgo\addons\sourcemod\logs\L20210924.log") (Version "1.11.0.6713")
+L 09/24/2021 - 18:51:03: [GEOIP] GeoIP2 database loaded: GeoLite2-City (2019-12-17 20:01:26 UTC)
+L 09/24/2021 - 18:51:03: [GEOIP] GeoIP2 supported languages: de en es fr ja pt-BR ru zh-CN
+L 09/24/2021 - 18:51:33: -------- Mapchange to de_dust2 --------
+L 09/24/2021 - 18:51:36: [weapons.smx] SQLite DB connection successful
+L 09/24/2021 - 18:51:36: [weapons.smx] Inactive players' data has been deleted
+L 09/24/2021 - 18:56:18: -------- Mapchange to de_cache --------
+L 09/24/2021 - 18:56:21: [weapons.smx] Inactive players' data has been deleted
+L 09/24/2021 - 19:35:25: -------- Mapchange to de_mirage --------
+L 09/24/2021 - 19:35:30: [weapons.smx] Inactive players' data has been deleted
